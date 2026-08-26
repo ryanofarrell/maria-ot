@@ -98,7 +98,7 @@ grep -rn '#[0-9a-fA-F]\{3,6\}' _sass/ --include='*.scss' | grep -v '_bootstrap\|
 ### Layouts (`_layouts/`)
 - [x] `default.html` ✅ 2026-06-03
 - [x] `home.html` ✅ 2026-06-10
-- [ ] `post.html`
+- [✅] 2026-08-26 `post.html`
 - [ ] `page.html`
 - [ ] `single.html`
 - [ ] `minimal.html`
@@ -142,6 +142,12 @@ grep -rn '#[0-9a-fA-F]\{3,6\}' _sass/ --include='*.scss' | grep -v '_bootstrap\|
 ## Execution Log
 
 <!-- Palette's cumulative journal. New entries go at the top. -->
+
+### 2026-08-26 — Screen Reader User (JAWS/NVDA) accessibility fix for post.html
+- **Target:** `_layouts/post.html`
+- **Finding:** In the related posts section, the image link and the title link point to the same destination (`{{ post.url | relative_url }}`). To remove unnecessary tab stops and repetitive screen reader announcements, we need to add `aria-hidden="true"` and `tabindex="-1"` to the image link.
+- **Action:** Added `aria-hidden="true"` and `tabindex="-1"` to the image link in the related posts section.
+- **Verification:** `bundle exec jekyll build` → ✅ Success
 
 ### 2026-06-10 — No accessibility issues found
 - **Target:** `_layouts/home.html`
