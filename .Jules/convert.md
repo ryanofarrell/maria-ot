@@ -153,7 +153,7 @@ done
 ## Coverage Tracker
 
 ### Static Pages — Hook Audit
-- [ ] `services.html` — Has hook? Contextually relevant?
+- [✅] 2026-08-26 `services.html` — Has hook? Contextually relevant?
 - [ ] `contact.html` — Has hook? Next step clear?
 - [ ] `faq.html` — Has hook? Guides to services or blog?
 - [ ] `meet-maria.html` — Has hook? Guides to services or contact?
@@ -170,4 +170,8 @@ done
 
 ## Execution Log
 
-*No entries yet. First audit pending.*
+## 2026-08-26 — Replaced hardcoded soft hooks with reusable component
+- **Target:** `services.html`
+- **Finding:** Hardcoded hook elements violated component reuse guidelines and maximum hook frequency limits.
+- **Action:** Removed hardcoded elements and added `_includes/soft_hook.html` component.
+- **Verification:** `bundle exec jekyll build` → ✅ Success
