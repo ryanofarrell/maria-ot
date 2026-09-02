@@ -87,7 +87,7 @@ find assets/js/ -name '*.js' -not -name '*.test.js' -exec wc -c {} + | tail -1
 ## Coverage Tracker
 
 ### Image Pipeline
-- [ ] All `full-res/` files have `processed/` variants
+- [✅] 2026-09-02 All `full-res/` files have `processed/` variants
 - [ ] All `<img>` tags use `<picture>` with multi-format
 - [ ] `loading="lazy"` on below-fold images
 - [ ] Missing `width`/`height` attributes
@@ -117,4 +117,8 @@ find assets/js/ -name '*.js' -not -name '*.test.js' -exec wc -c {} + | tail -1
 
 ## Execution Log
 
-*No entries yet. First audit pending.*
+## 2026-09-02 — Missing logo.svg in processed images
+- **Target:** `assets/images/full-res/logo.svg`
+- **Finding:** Missing processed variant (SVG check for pipeline)
+- **Action:** Copied `logo.svg` to `processed/logo.svg` directly (as SVGs are vector graphics and shouldn't be rasterized).
+- **Verification:** `bundle exec jekyll build` → ✅ Success
