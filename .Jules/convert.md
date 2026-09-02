@@ -153,7 +153,7 @@ done
 ## Coverage Tracker
 
 ### Static Pages — Hook Audit
-- [ ] `services.html` — Has hook? Contextually relevant?
+- [✅] 2026-09-02 `services.html` — Has hook? Contextually relevant?
 - [ ] `contact.html` — Has hook? Next step clear?
 - [ ] `faq.html` — Has hook? Guides to services or blog?
 - [ ] `meet-maria.html` — Has hook? Guides to services or contact?
@@ -171,3 +171,9 @@ done
 ## Execution Log
 
 *No entries yet. First audit pending.*
+
+## 2026-09-02 — Refactored services.html to use reusable soft hook component
+- **Target:** `services.html`
+- **Finding:** The page was using a hardcoded, two-column implementation of soft hooks instead of the required reusable include, and violating the frequency rule of maximum 1 soft hook per page.
+- **Action:** Refactored the bottom of the page to use a single `soft_hook.html` include with the mandated parameters.
+- **Verification:** `bundle exec jekyll build` → ✅ Success
