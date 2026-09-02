@@ -98,7 +98,7 @@ grep -rn '#[0-9a-fA-F]\{3,6\}' _sass/ --include='*.scss' | grep -v '_bootstrap\|
 ### Layouts (`_layouts/`)
 - [x] `default.html` ✅ 2026-06-03
 - [x] `home.html` ✅ 2026-06-10
-- [ ] `post.html`
+- [x] `post.html` ✅ 2026-09-02
 - [ ] `page.html`
 - [ ] `single.html`
 - [ ] `minimal.html`
@@ -142,6 +142,12 @@ grep -rn '#[0-9a-fA-F]\{3,6\}' _sass/ --include='*.scss' | grep -v '_bootstrap\|
 ## Execution Log
 
 <!-- Palette's cumulative journal. New entries go at the top. -->
+
+### 2026-09-02 — Focus order optimization for related posts
+- **Target:** `_layouts/post.html`
+- **Finding:** Redundant tab stops due to both the image and title linking to the same post in the Related Posts section.
+- **Action:** Added `aria-hidden="true"` and `tabindex="-1"` to the image link to improve screen reader and keyboard navigation experience.
+- **Verification:** `bundle exec jekyll build` → ✅ Success
 
 ### 2026-06-10 — No accessibility issues found
 - **Target:** `_layouts/home.html`
