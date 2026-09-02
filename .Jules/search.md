@@ -135,7 +135,7 @@ done
 ## Coverage Tracker
 
 ### Schema.org Blocks
-- [ ] `_includes/head/custom.html` — Organization + LocalBusiness schema
+- [✅] 2026-09-02 `_includes/head/custom.html` — Organization + LocalBusiness schema
 - [ ] `services.html` — Service + ItemList schema
 - [ ] `faq.html` — FAQPage schema (verify it exists or create)
 
@@ -165,5 +165,11 @@ done
 ## Execution Log
 
 <!-- Search's cumulative journal. New entries go at the top. -->
+
+## 2026-09-02 — Add required LocalBusiness schema properties
+- **Target:** `_includes/head/custom.html`
+- **Finding:** `MedicalBusiness` and `Organization` schema lacked required properties (`email`, `openingHours`, `priceRange`, `paymentAccepted` etc).
+- **Action:** Added the missing JSON-LD properties based on values from `_config.yml` and `_data/sitetext.yml` to both blocks.
+- **Verification:** `bundle exec jekyll build` → ✅ Success
 
 *No entries yet. First audit pending.*
