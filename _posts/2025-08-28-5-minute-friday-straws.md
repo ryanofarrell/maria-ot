@@ -1,17 +1,17 @@
 ---
 layout: post
-title: 5 Minute Friday - Straws!
+title: "5 Minute Friday - Straws!"
 date: 2025-08-28 08:03:00 -0400
-categories: posts
+categories: [posts]
+tags: ["5 Minute Friday"]
+concepts: ["feeding", "fine-motor", "sensory-processing", "visual-motor", "bilateral-coordination"]
+description: "Boost oral motor strength, scissor skills, and fine motor coordination using drinking straws in quick, engaging 5-minute developmental games."
 excerpt: "Grab a straw! This 5 Minute Friday shows how this simple item can boost oral motor skills, fine motor coordination, pre-writing development, and sensory regulation for babies, toddlers, and big kids."
 classes: wide
-tag: 5 Minute Friday
-concepts: ["oral motor", "fine motor", "scissor skills", "sensory play", "visual-motor integration", "bilateral coordination", "play ideas"]
 header:
-    teaser: /assets/images/processed/blog/5mf-straws.jpeg
-image: /assets/images/processed/blog/5mf-straws.jpeg
+  teaser: "/assets/images/processed/blog/5mf-straws.jpeg"
+image: "/assets/images/processed/blog/5mf-straws.jpeg"
 ---
-
 Straws are such a great go-to that I always carry in my therapy bag! They’re inexpensive, versatile, and effective for all ages! Here are a few things you can entertain your kiddos with using straws!
 
 ### Did you know that babies can start drinking from a straw cup early?

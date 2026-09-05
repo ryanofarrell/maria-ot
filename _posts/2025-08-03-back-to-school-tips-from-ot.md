@@ -2,16 +2,16 @@
 layout: post
 title: "Back-to-School Tips from a Pediatric OT"
 date: 2025-08-03 09:00:00 -0400
-categories: posts
+categories: [posts]
+tags: ["Posts"]
+concepts: ["sensory-processing", "daily-living", "executive-function"]
+description: "Help your child transition back to school with 5 practical OT strategies for sensory routines, after-school decompression, and bedtime regulation."
 excerpt: "Ease the back-to-school transition for kids with sensory differences. An OT offers 5 key tips on routines, sensory plans, managing expectations, after-school cooldowns, and bedtime support."
 classes: wide
-tag: Posts
-concepts: ["back-to-school", "sensory processing", "routines", "executive functioning", "parenting tips", "occupational therapy"]
 header:
-  teaser: /assets/images/processed/blog/back-to-school-tips.jpeg
-image: /assets/images/processed/blog/back-to-school-tips.jpeg
+  teaser: "/assets/images/processed/blog/back-to-school-tips.jpeg"
+image: "/assets/images/processed/blog/back-to-school-tips.jpeg"
 ---
-
 It’s that time of year again! I can still remember the excitement of picking out school supplies and planning the perfect first-day outfit. But I also remember feeling overwhelmed and anxious about all the new things that come with a fresh school year.
 
 Back-to-school transitions can be especially challenging for children with sensory differences. In previous years, they may have felt comfortable with their teachers, learned routines, and even begun to self-advocate. But starting a new school year means navigating unfamiliar environments, expectations, and sensory input—something that’s particularly tough for kids with sensory processing challenges.

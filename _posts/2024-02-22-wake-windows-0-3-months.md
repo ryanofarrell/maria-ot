@@ -1,18 +1,17 @@
 ---
 layout: post
-title: How to fill Wake Windows 0-3 Months
+title: "How to fill Wake Windows 0-3 Months"
 date: 2024-02-22 08:03:00 -0400
-categories: posts
+categories: [posts]
+tags: ["Posts"]
+concepts: ["sensory-processing", "play-skills"]
+description: "Learn age-appropriate wake windows for newborns 0-3 months, with practical OT tips on sleepy cues, sensory pacing, and avoiding overtired meltdowns."
 excerpt: "Beyond feeds and changes: Maximize your newborn's (0-3 months) wake windows! Discover 5 OT-recommended activities like infant massage and gentle dances to boost bonding, sensory development, and early motor skills."
 classes: wide
-tag: Posts
-concepts: ["newborn care", "wake windows", "infant massage", "crossing midline", "sensory development", "motor skills"]
 header:
-    teaser: /assets/images/processed/blog/wake-windows-0-3.jpeg
-image: /assets/images/processed/blog/wake-windows-0-3.jpeg
-
+  teaser: "/assets/images/processed/blog/wake-windows-0-3.jpeg"
+image: "/assets/images/processed/blog/wake-windows-0-3.jpeg"
 ---
-
 _For 3-6 months [click here]({{ '/blog/wake-windows-3-6-months.html' | relative_url }})_
 
 You’ve fed them, you’ve burped them, you’ve changed them…now what?! Here are some ways to fill those small but mighty wake windows in the newborn phase that are beneficial to you and your little one.

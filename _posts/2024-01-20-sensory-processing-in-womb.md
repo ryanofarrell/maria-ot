@@ -1,18 +1,17 @@
 ---
 layout: post
-title: Sensory Processing Starts in the Womb
+title: "Sensory Processing Starts in the Womb"
 date: 2024-01-20 08:03:00 -0400
-categories: posts
-excerpt: Did you know sensory processing begins before birth? An OT explains the fascinating development of primitive senses in the womb and how these lay the foundation for your baby's future motor skills and regulation.
+categories: [posts]
+tags: ["Posts"]
+concepts: ["sensory-processing", "body-awareness"]
+description: "Did you know sensory processing begins before birth? An OT explains how early vestibular and proprioceptive senses lay the foundation for motor development."
+excerpt: "Did you know sensory processing begins before birth? An OT explains the fascinating development of primitive senses in the womb and how these lay the foundation for your baby's future motor skills and regulation."
 classes: wide
-tag: Posts
-concepts: ["prenatal development", "sensory processing", "proprioception", "tactile input", "vestibular input", "motor skills"]
 header:
-    teaser: /assets/images/processed/blog/sensory-processing-womb.jpeg
-image: /assets/images/processed/blog/sensory-processing-womb.jpeg
-
+  teaser: "/assets/images/processed/blog/sensory-processing-womb.jpeg"
+image: "/assets/images/processed/blog/sensory-processing-womb.jpeg"
 ---
-
 During a typical evaluation, I will ask parents the client’s pregnancy and birth history. Questions include whether there were prenatal or birth complications, if the child was born more than 2 weeks early or two weeks late, and if they required time in the NICU prior to discharge. While all of this information is important and pertinent to care, I am most excited about the extra information I get. Like when a mother will tell me how her baby was positioned in the womb and how it affected their movement as a newborn. Or when a mother tells me their child hated when she wore tight clothing, and are now very avoidant to any and all types of sensory input. I wholeheartedly believe that paying attention to our baby’s movement and patterns in utero can clue us in to their behaviors after birth.
 
 When explaining sensory processing, I often start by explaining that there are three primitive senses that are formed first in utero: proprioception, tactile, and vestibular processing. These sensations are formed in the hippocampus, hypothalamus, thalamus, and amygdala. Also known as the limbic system. The first of these sensations is the vestibular system. The vestibular sense is our ability to interpret movement and head position, so you know I was pumped when my baby was head down at 32 weeks. It is also integral in oculomotor development (visual skills) and auditory processing skills. Throughout gestational development, exercising, talking to your baby, and listening to music can help develop this system.

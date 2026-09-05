@@ -1,19 +1,17 @@
 ---
 layout: post
-title: 5 Benefits of Doing Occupational Therapy Through Telehealth
+title: "5 Benefits of Doing Occupational Therapy Through Telehealth"
 date: 2024-02-10 08:03:00 -0400
-categories: posts
-excerpt: Is OT telehealth effective? Discover 5 surprising benefits, from unmatched convenience to increased parent education and using your own home environment for tailored therapy. Learn why it's here to stay.
+categories: [posts]
+tags: ["Posts"]
+concepts: ["sensory-processing", "play-skills"]
+description: "Discover how pediatric OT telehealth empowers parents with practical strategies, comfortable home routines, and effective virtual developmental support."
+excerpt: "Is OT telehealth effective? Discover 5 surprising benefits, from unmatched convenience to increased parent education and using your own home environment for tailored therapy. Learn why it's here to stay."
 classes: wide
-tag: Posts
-concepts: ["telehealth", "parent coaching", "home environment", "pediatric OT"]
-image: /assets/images/processed/blog/tele-health.jpeg
 header:
-    teaser: /assets/images/processed/blog/tele-health.jpeg
-
+  teaser: "/assets/images/processed/blog/tele-health.jpeg"
+image: "/assets/images/processed/blog/tele-health.jpeg"
 ---
-
-
 It’s hard to believe that almost three years ago we were ‘forced’ to switch to teletherapy for occupational therapy services. Today, we are still providing teletherapy; but this method of treatment is anything but forced. There are several unique benefits of doing occupational therapy through telehealth.
 
 1. **Convenience** - This may be the most obvious of all benefits, but you cannot deny that teletherapy is so convenient! Getting your child from school, home, other extracurriculars to therapy can be a chore. You have to consider transitioning times, Atlanta traffic (especially if you are coming from neighborhoods like [Sandy Springs](/service-areas/) or [Dunwoody](/service-areas/)), and juggling multiple schedules to get to and from therapy, and oftentimes the whole day revolves around one 30-minute session. Occupational therapy can be even more beneficial and you can dedicate more time to continued work on functional skills by buying back some of that precious time spent in the car.

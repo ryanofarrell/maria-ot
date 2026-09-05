@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Screen Time Advice from a Pediatric OT"
+title: "Screen Time Advice from a Pediatric OT & Mom"
 date: 2025-06-11 09:00:00 -0400
-categories: posts
-tag: Posts
-concepts: ["screen time", "parenting", "play", "pediatric OT", "attention span", "social-emotional skills", "sensory processing"]
+categories: [posts]
+tags: ["Posts"]
+concepts: ["play-skills", "attention", "social-skills", "sensory-processing"]
+description: "Practical screen time advice from a pediatric OT and mom: setting boundaries, picking high-quality shows, and prioritizing active developmental play."
 excerpt: "A pediatric OT and mom shares her practical guidelines for screen time, focusing on why bigger screens are better, setting limits, choosing quality shows, and prioritizing play to support healthy development."
 classes: wide
 header:
-  teaser: "/assets/images/processed/blog/screen-time.jpeg" 
-image: "/assets/images/processed/blog/screen-time.jpeg" 
+  teaser: "/assets/images/processed/blog/screen-time.jpeg"
+image: "/assets/images/processed/blog/screen-time.jpeg"
 ---
-
 As a pediatric OT—and a busy mom—I totally get it: sometimes you need screens to get something done. I’m not anti-screen. In fact, my kids watch the occasional show (hello, Ms. Rachel and Bluey!), especially when they’re sick or overtired. But screen time in our house is limited, and there are a few key guidelines I follow:
 
 1. **Bigger Screens Are Better**

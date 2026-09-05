@@ -1,18 +1,17 @@
 ---
 layout: post
-title: 5 Minute Friday - Painters Tape!
+title: "5 Minute Friday - Painters Tape!"
 date: 2024-02-03 08:03:00 -0400
-categories: posts
-excerpt: Grab that painter's tape! A simple roll can transform into a fantastic 5 Minute Friday activity to develop your baby's pincer grasp, core strength, and visual-motor skills. Easy setup, big benefits!
+categories: [posts]
+tags: ["5 Minute Friday"]
+concepts: ["fine-motor", "visual-motor", "play-skills"]
+description: "Use painter's tape to build fine motor precision, bilateral coordination, and sensory engagement with fun, low-prep developmental games at home."
+excerpt: "Grab that painter's tape! A simple roll can transform into a fantastic 5 Minute Friday activity to develop your baby's pincer grasp, core strength, and visual-motor skills. Easy setup, big benefits!"
 classes: wide
-tag: 5 Minute Friday
-concepts: ["fine motor", "pincer grasp", "visual-motor integration", "crossing midline", "play ideas"]
 header:
-    teaser: /assets/images/processed/blog/5mf-tape.jpeg
-image: /assets/images/processed/blog/5mf-tape.jpeg
+  teaser: "/assets/images/processed/blog/5mf-tape.jpeg"
+image: "/assets/images/processed/blog/5mf-tape.jpeg"
 ---
-
-
 Babies by nature reach and grab everything they see (goodbye wearing your hair down). Instead of allowing your baby to pull out all of your luscious locks, try painters tape instead.
 
 ### Set up

@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Understanding Ear Tubes and Their Sensory Implications for Children"
+title: "Ear Tubes and Beyond: Sensory Impacts of Surgery in Kids"
 date: 2025-04-12 08:03:00 -0400
-categories: posts
-tag: Posts
-concepts: ["ear tubes", "ear infections", "vestibular", "sensory processing", "auditory processing", "motor development"]
+categories: [posts]
+tags: ["Posts"]
+concepts: ["sensory-processing", "play-skills"]
+description: "An OT's guide to ear tube surgery, post-op auditory changes, and how fluctuating hearing impacts speech, balance, and sensory regulation in kids."
 excerpt: "A look at why children get ear tubes, how frequent ear infections affect the vestibular system, and what sensory implications parents should be aware of post-procedure."
 classes: wide
 header:
-  teaser: "/assets/images/processed/blog/ear-tubes.jpeg" 
-image: "/assets/images/processed/blog/ear-tubes.jpeg" 
+  teaser: "/assets/images/processed/blog/ear-tubes.jpeg"
+image: "/assets/images/processed/blog/ear-tubes.jpeg"
 ---
-
 It seems like many of the children in my life are getting ear tubes. While getting ear tubes placed is a routine and common procedure for pediatricians and ENTs, there are important sensory implications that parents should be aware of.
 
 ## What Causes Frequent Ear Infections in Children?

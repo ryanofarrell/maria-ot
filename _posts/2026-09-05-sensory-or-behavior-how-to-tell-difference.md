@@ -2,16 +2,16 @@
 layout: post
 title: "Sensory or Behavior? How to Tell the Difference"
 date: 2026-09-05 08:00:00 -0400
-categories: posts
-tag: Posts
+categories: [posts]
+tags: ["Posts"]
+concepts: ["sensory-processing", "self-regulation", "body-awareness"]
+description: "Is it a toddler tantrum or a sensory meltdown? A pediatric OT and mom shares 5 questions to decode big feelings and support sensory regulation."
 excerpt: "Is it a toddler tantrum or a sensory meltdown? A pediatric OT and mom shares 5 questions to help you decode your child's big feelings and practical strategies to support regulation."
 classes: wide
-concepts: ["sensory processing", "emotional regulation", "tantrums", "meltdowns", "interoception", "heavy work", "parenting tips", "pediatric OT"]
 header:
-  teaser: /assets/images/processed/blog/sensory-or-behavior.jpeg
-image: /assets/images/processed/blog/sensory-or-behavior.jpeg
+  teaser: "/assets/images/processed/blog/sensory-or-behavior.jpeg"
+image: "/assets/images/processed/blog/sensory-or-behavior.jpeg"
 ---
-
 As a mom of two and a pediatric OT, I have experienced toddler energy both personally and professionally. I often find myself looking for a deeper meaning behind a tantrum or meltdown. Sometimes there is one. Other times, the answer really is, *“She’s just 2.”*
 
 So how do you know if there is something bigger going on?

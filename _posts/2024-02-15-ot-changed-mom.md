@@ -1,18 +1,17 @@
 ---
 layout: post
-title: 5 Ways my OT Practice Changed Since Becoming a Mom
+title: "5 Ways my OT Practice Changed Since Becoming a Mom"
 date: 2024-02-15 08:03:00 -0400
-categories: posts
-excerpt: How does motherhood transform an OT? An occupational therapist shares 5 profound ways her practice evolved after becoming a mom, offering deeper empathy, clearer answers, and a family-based approach.
+categories: [posts]
+tags: ["Posts"]
+concepts: ["sensory-processing", "play-skills"]
+description: "A pediatric occupational therapist shares how her clinical training shaped her parenting journey, from sensory regulation to baby movement milestones."
+excerpt: "How does motherhood transform an OT? An occupational therapist shares 5 profound ways her practice evolved after becoming a mom, offering deeper empathy, clearer answers, and a family-based approach."
 classes: wide
-tag: Posts
-concepts: ["OT perspective", "motherhood", "parenting", "family-centered care", "pediatric OT"]
 header:
-    teaser: /assets/images/processed/blog/changes-as-a-mom.jpeg
-image: /assets/images/processed/blog/changes-as-a-mom.jpeg
-
+  teaser: "/assets/images/processed/blog/changes-as-a-mom.jpeg"
+image: "/assets/images/processed/blog/changes-as-a-mom.jpeg"
 ---
-
 I love every one of my patients. I have been in the same clinic for almost six years now, and have developed a strong relationship with so many families. I remember thinking, “is it possible that I will love my baby as much (or more) than these kids?” The answer is yes, because having your own child is SO different. If I’m being honest, I have felt a little imposter syndrome as my job requires me to provide parenting advice; without the experience of ever having parented. While I thought I would be able to feel more confident about my recommendations after having my own child, my practice changed in so many more unexpected ways.
 
 1. **Babies and Kids are not robots** - Of course I have always known this, but prior to having my own baby, I would make recommendations that were strictly textbook evidenced based information. This is still best practice, but I understand more than ever that sometimes, following the book is just not possible for some kids. We cannot expect them to follow all of the rules, even if the parent is doing it all according to plan. I am much more flexible with my thoughts about how to make suggestions work for each specific family. While there is always a “best choice” that may work for most, every child deserves their own plan.

@@ -1,19 +1,17 @@
 ---
 layout: post
-title: 5 Minute Friday - Sponges!
+title: "5 Minute Friday - Sponges!"
 date: 2025-06-06 08:03:00 -0400
-categories: posts
+categories: [posts]
+tags: ["5 Minute Friday"]
+concepts: ["sensory-processing", "fine-motor", "core-strength", "visual-motor", "play-skills"]
+description: "Grab a kitchen sponge for fun water play, hand grip strengthening, tactile sensory processing, and bilateral coordination games for all ages."
 excerpt: "Transform an everyday sponge into a powerhouse of play! This 5 Minute Friday offers sensory-rich, skill-building activities for babies, toddlers, and big kids, perfect for boosting fine motor skills, core strength, and creative fun."
 classes: wide
-concepts: ["sensory play", "fine motor", "core strength", "grasp development", "visual-motor integration", "play ideas"]
-tag: 5 Minute Friday
 header:
-    teaser: /assets/images/processed/blog/5mf-sponges.jpeg
-image: /assets/images/processed/blog/5mf-sponges.jpeg
-
+  teaser: "/assets/images/processed/blog/5mf-sponges.jpeg"
+image: "/assets/images/processed/blog/5mf-sponges.jpeg"
 ---
-
-
 Let’s talk about one of the most underrated (and under-the-sink!) tools for child development—sponges! If you’re anything like me, dishes are a regular part of the day. And guess what? Kids love to mimic what they see! So why not turn that everyday item into a sensory-rich, skill-building activity?
 
 Whether you have a baby just learning to grasp or a big kid looking for a creative challenge, sponges can provide endless opportunities for play and development.

@@ -1,18 +1,17 @@
 ---
 layout: post
-title: 5 Minute Friday - Party Beads!
+title: "5 Minute Friday - Party Beads!"
 date: 2024-03-03 08:03:00 -0400
-categories: posts
-excerpt: Don't toss those Mardi Gras beads! This 5 Minute Friday reveals how party beads can boost core strength, sensory integration, and even dressing skills for babies and toddlers. Fun, easy, and beneficial!
+categories: [posts]
+tags: ["5 Minute Friday"]
+concepts: ["sensory-processing", "fine-motor", "daily-living", "play-skills"]
+description: "Turn party beads into sensory-rich fine motor games! Fun, simple activities for babies and toddlers to boost pincer grasp and bilateral hand skills."
+excerpt: "Don't toss those Mardi Gras beads! This 5 Minute Friday reveals how party beads can boost core strength, sensory integration, and even dressing skills for babies and toddlers. Fun, easy, and beneficial!"
 classes: wide
-tag: 5 Minute Friday
-concepts: ["sensory play", "fine motor", "dressing skills", "pincer grasp", "play ideas"]
 header:
-    teaser: /assets/images/processed/blog/5mf-beads.jpeg
-image: /assets/images/processed/blog/5mf-beads.jpeg
+  teaser: "/assets/images/processed/blog/5mf-beads.jpeg"
+image: "/assets/images/processed/blog/5mf-beads.jpeg"
 ---
-
-
 Happy mardi gras season! If you are looking for something to do with all of those left over beads, look no further!
 
 Mardi gras (or party beads) are a great tool for any age. They are shiny, interesting, and make fun sounds and can be used in a variety of beneficial ways.

@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "5 Indoor Play Areas in Atlanta to Enjoy (When It’s Just Too Cold Outside)"
+title: "5 Great Indoor Play Areas in Atlanta for Cold Weather"
 date: 2026-01-29 08:00:00 -0500
-categories: posts
-tag: Posts
+categories: [posts]
+tags: ["Posts"]
+concepts: ["sensory-processing", "gross-motor", "self-regulation", "motor-planning", "body-awareness"]
+description: "Explore 5 top indoor play areas in Atlanta recommended by an OT for cold days, offering proprioceptive heavy work, climbing, and sensory regulation."
 excerpt: "Too cold to play outside? An Atlanta pediatric OT shares her top 5 indoor play spots for burning energy, building motor skills, and keeping kids regulated during winter."
 classes: wide
-concepts: ["sensory play", "gross motor", "regulation", "Atlanta activities", "motor planning", "heavy work"]
 header:
-  teaser: /assets/images/processed/blog/indoor-play-atlanta.jpeg
-image: /assets/images/processed/blog/indoor-play-atlanta.jpeg
+  teaser: "/assets/images/processed/blog/indoor-play-atlanta.jpeg"
+image: "/assets/images/processed/blog/indoor-play-atlanta.jpeg"
 ---
-
 I’m a big believer in outdoor play—for the sensory input, the fresh air, and the endless opportunities for movement. That said, I did not move to Atlanta to experience weeks of subfreezing temperatures. When it’s cold, dark, and everyone is bouncing off the walls, staying home with two young children who need movement to regulate is… not the vibe.
 
 When we absolutely have to get out of the house, these are our five favorite indoor go-tos for cold days—places where kids can move their bodies and parents can breathe.

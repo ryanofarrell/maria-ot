@@ -1,19 +1,17 @@
 ---
 layout: post
-title: 5 Minute Friday - Backpacks!
+title: "5 Minute Friday - Backpacks!"
 date: 2024-08-04 08:03:00 -0400
-categories: posts
-excerpt: Back-to-school prep can be play! This 5 Minute Friday uses backpacks to boost zipper skills, proprioception (heavy work), problem-solving, and even pre-dressing skills for various ages.
+categories: [posts]
+tags: ["5 Minute Friday"]
+concepts: ["body-awareness", "daily-living"]
+description: "Use weighted backpack games as purposeful proprioceptive heavy work to calm the nervous system and build core stability for school readiness."
+excerpt: "Back-to-school prep can be play! This 5 Minute Friday uses backpacks to boost zipper skills, proprioception (heavy work), problem-solving, and even pre-dressing skills for various ages."
 classes: wide
-tag: 5 Minute Friday
-concepts: ["zipper skills", "heavy work", "proprioception", "organization", "dressing skills"]
 header:
-    teaser: /assets/images/processed/blog/5mf-backpack.jpeg
-image: /assets/images/processed/blog/5mf-backpack.jpeg
-
+  teaser: "/assets/images/processed/blog/5mf-backpack.jpeg"
+image: "/assets/images/processed/blog/5mf-backpack.jpeg"
 ---
-
-
 It is never a bad idea to practice using a backpack! Backpacks are not just for school aged kids and are packed with several benefits beyond hauling your stuff!  Prepare for back-to-school with a backpack focused 5-minute Friday!
 
 - Backpacks are amazing to practice zippers!  Using a backpack is a great way to introduce the grasp pattern (lateral pinch) used for zippers.  Typically, backpacks have a variety of zippers to work with and explore.  The sooner you introduce zippers, the sooner your child will be able to manage their backpack, lunch box, and coat!

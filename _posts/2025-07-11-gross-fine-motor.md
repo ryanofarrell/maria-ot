@@ -1,18 +1,17 @@
 ---
 layout: post
-title: "Understanding the Main Stages of Gross and Fine Motor Development"
-date: 2025-07-11 09:00:00 -0500 # Assuming a morning publish time and EST for November
-categories: posts
-tag: Posts
-concepts: ["gross motor", "fine motor", "developmental milestones", "pediatric OT", "early intervention"]
+title: "Understanding Gross & Fine Motor Development Milestones"
+date: 2025-07-11 09:00:00 -0500
+categories: [posts]
+tags: ["Posts"]
+concepts: ["gross-motor", "fine-motor"]
+description: "Understand gross and fine motor milestones from infancy to age 6, and learn practical signs for when pediatric OT evaluation may be beneficial."
 excerpt: "An overview of fine and gross motor skills, key developmental milestones from 0 months to 6 years, and guidance on when to seek intervention if you have concerns about your child's motor development."
 classes: wide
 header:
-  teaser: "/assets/images/processed/blog/gross-fine-motor.jpeg" 
-image: "/assets/images/processed/blog/gross-fine-motor.jpeg" 
-author: Maria O'Farrell
+  teaser: "/assets/images/processed/blog/gross-fine-motor.jpeg"
+image: "/assets/images/processed/blog/gross-fine-motor.jpeg"
 ---
-
 Motor skills are at the forefront of development and affect all areas of daily function. However, it is sometimes unclear what constitutes a gross motor skill and what constitutes a fine motor skill, and how you know if your child is on track for both.
 
 Gross motor skills are movements that involve larger muscle groups, such as walking, running and jumping. Fine motor skills are more refined movements of the hands, fingers and toes such as picking up a toy and placing it into a container. Gross motor development affects fine motor development. Proximal stability results in distal mobility, meaning babies and children must develop gross motor skills such as postural control prior to developing fine motor skills such as reaching and grasping.

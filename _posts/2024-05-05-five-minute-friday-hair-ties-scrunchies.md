@@ -1,18 +1,17 @@
 ---
 layout: post
-title: 5 Minute Friday - Hair Ties and Scrunchies!
+title: "5 Minute Friday - Hair Ties and Scrunchies!"
 date: 2024-05-05 08:03:00 -0400
-categories: posts
-excerpt: Unlock developmental play with everyday hair ties & scrunchies! This 5 Minute Friday offers simple activities for babies, toddlers, and older kids to boost core strength, fine motor skills, and problem-solving.
+categories: [posts]
+tags: ["5 Minute Friday"]
+concepts: ["fine-motor", "core-strength", "executive-function", "daily-living", "play-skills"]
+description: "Use scrunchies and hair ties for easy fine motor strengthening, tactile exploration, and bilateral hand games for infants, toddlers, and older kids."
+excerpt: "Unlock developmental play with everyday hair ties & scrunchies! This 5 Minute Friday offers simple activities for babies, toddlers, and older kids to boost core strength, fine motor skills, and problem-solving."
 classes: wide
-tag: 5 Minute Friday
-concepts: ["fine motor", "core strength", "problem-solving", "dressing skills", "play ideas"]
 header:
-    teaser: /assets/images/processed/blog/5mf-hair-tie.jpeg
-image: /assets/images/processed/blog/5mf-hair-tie.jpeg
-
+  teaser: "/assets/images/processed/blog/5mf-hair-tie.jpeg"
+image: "/assets/images/processed/blog/5mf-hair-tie.jpeg"
 ---
-
 I seem to always find hair ties lying around.  Luckily, they can be for more than just holding your hair back from a baby who loves to pull!  Hair ties and scrunchies can be used for a variety of play activities and can be very beneficial!
 
 ## Babies

@@ -1,18 +1,17 @@
 ---
 layout: post
-title: 5 Changes I Made to Boost my Postpartum Mental Health
+title: "5 Changes I Made to Boost my Postpartum Mental Health"
 date: 2024-03-13 08:03:00 -0400
-categories: posts
-excerpt: Struggling with postpartum mental health? An OT and mom shares 5 actionable changes she made to improve well-being and confidence. Learn how to find grace and adapt in your new role.
+categories: [posts]
+tags: ["Posts"]
+concepts: ["sensory-processing", "play-skills"]
+description: "An OT and mom shares 5 realistic changes she made to support postpartum mental health, from protected sleep to nervous system co-regulation."
+excerpt: "Struggling with postpartum mental health? An OT and mom shares 5 actionable changes she made to improve well-being and confidence. Learn how to find grace and adapt in your new role."
 classes: wide
-tag: Posts
-concepts: ["postpartum", "mental health", "motherhood", "self-care", "parenting"]
 header:
-    teaser: /assets/images/processed/blog/mental-health.jpeg
-image: /assets/images/processed/blog/mental-health.jpeg
-
+  teaser: "/assets/images/processed/blog/mental-health.jpeg"
+image: "/assets/images/processed/blog/mental-health.jpeg"
 ---
-
 When I was pregnant, people would often remark on how lucky I was that I already knew so much about child development and what to do with a baby, and they are right, I am lucky to have the knowledge that I have; however, I was holding myself to an impossible standard. I let go of a few things that markedly improved my well-being and increased my confidence in my new role.
 
 1. **Getting off the apps** - There is truly an app for everything with babies. In the beginning, we would track everything from the time spent breastfeeding on each side, diaper changes, and sleep. We would use wonder weeks to justify our crying newborn. I have a master’s degree and extensive knowledge in child development, but I was still tracking milestones on an app, not to mention the number of TikTok reels I watched to justify my choices. After a while, we became less attached to tracking everything. In the beginning, we may have needed it to create some narrative of control, but in the end it was a distraction. Getting off the apps allowed me to be more attuned to my baby and more present.

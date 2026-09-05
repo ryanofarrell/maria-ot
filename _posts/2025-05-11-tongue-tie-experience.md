@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Infant Tongue Tie - My Experience with Tongue Tie Release as a Mom and OT"
-date: 2025-05-11 08:00:00 -0400 # Assuming a morning publish time, adjust as needed
-categories: posts
-tag: Posts
+title: "The Truth About Tongue Ties: A Pediatric OT Perspective"
+date: 2025-05-11 08:00:00 -0400
+categories: [posts]
+tags: ["Posts"]
+concepts: ["feeding", "play-skills", "sensory-processing"]
+description: "A pediatric OT shares her professional and personal experience with infant tongue ties, release procedures, bodywork, and feeding therapy support."
 excerpt: "Maria O'Farrell shares her personal and professional insights on identifying infant tongue ties, the decision-making process for release, and the crucial therapies involved before and after the procedure."
 classes: wide
-concepts: ["tongue tie", "frenectomy", "infant feeding", "oral motor", "bodywork", "collaborative care"]
 header:
-  teaser: "/assets/images/processed/blog/tongue-tie-experience.jpeg" 
-image: "/assets/images/processed/blog/tongue-tie-experience.jpeg" 
+  teaser: "/assets/images/processed/blog/tongue-tie-experience.jpeg"
+image: "/assets/images/processed/blog/tongue-tie-experience.jpeg"
 ---
-
 ## What is a Tongue Tie?
 
 Tongue ties have become a hot-button issue lately, yet many remain unfamiliar with what they entail or how to recognize them. Essentially, a tongue tie occurs when excess tissue tethers the tongue to the floor of the mouth, either anteriorly (at the front) or posteriorly (in the middle). Typically, accompanying a tongue tie, you might observe a lip or buccal (cheek) tie. Unlike most muscles in the body, the tongue lacks clear insertion points. When a tie occurs, the tongue forms an attachment to the hyoid bone, leading to difficulties in feeding, maintaining proper tongue posture for nasal breathing, and increased overall body tension, among other functional deficits. Essentially, tightness in the mouth from a tongue tie can have widespread effects on the entire body due to the interconnectedness of fascia from head to toe.

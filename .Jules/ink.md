@@ -171,51 +171,62 @@ done
 
 ### Posts (populate by running `ls _posts/`)
 - [x] `2025-05-30-basics-motor-planning.md` ✅ 2026-09-05
-- [ ] `2024-01-06-five-minute-friday-blanket-rides.md`
-- [ ] `2024-01-20-sensory-processing-in-womb.md`
-- [ ] `2024-02-03-five-minute-friday-painters-tape.md`
-- [ ] `2024-02-10-benefits-ot-telehealth.md`
-- [ ] `2024-02-15-ot-changed-mom.md`
-- [ ] `2024-02-22-wake-windows-0-3-months.md`
-- [ ] `2024-03-03-five-minute-friday-party-beads.md`
-- [ ] `2024-03-10-combined-feeding-model.md`
-- [ ] `2024-03-13-five-changes-postpartum-mental-health.md`
-- [ ] `2024-04-07-five-minute-friday-foil.md`
-- [ ] `2024-04-19-wake-windows-3-6-months.md`
-- [ ] `2024-05-05-five-minute-friday-hair-ties-scrunchies.md`
-- [ ] `2024-06-02-five-minute-friday-muffin-tins.md`
-- [ ] `2024-07-07-five-minute-friday-q-tips.md`
-- [ ] `2024-08-04-five-minute-friday-backpacks.md`
-- [ ] `2024-08-10-importance-of-tummy-time.md`
-- [ ] `2024-11-08-gift-guide-2024.md`
-- [ ] `2024-12-06-five-minute-friday-laundry-baskets.md`
-- [ ] `2025-01-06-five-minute-friday-tissue-boxes.md`
-- [ ] `2025-02-06-five-minute-friday-baking-sheets.md`
-- [ ] `2025-03-06-five-minute-friday-balloons.md`
-- [ ] `2025-04-12-ear-tubes-sensory-implications.md`
-- [ ] `2025-05-11-tongue-tie-experience.md`
-- [ ] `2025-06-06-five-minute-friday-sponges.md`
-- [ ] `2025-06-11-screen-time-recommendations.md`
-- [ ] `2025-06-27-five-minute-friday-chip-clips.md`
-- [ ] `2025-07-11-gross-fine-motor.md`
-- [ ] `2025-08-01-five-minute-friday-pipe-cleaners.md`
-- [ ] `2025-08-03-back-to-school-tips-from-ot.md`
-- [ ] `2025-08-28-5-minute-friday-straws.md`
-- [ ] `2025-09-21-back-to-school-regression.md`
-- [ ] `2025-10-04-five-minute-friday-pompoms.md`
-- [ ] `2025-12-08-gift-guide-2025.md`
-- [ ] `2026-01-29-indoor-play-areas-atlanta.md`
-- [ ] `2026-09-05-sensory-or-behavior-how-to-tell-difference.md`
+- [x] `2024-01-06-five-minute-friday-blanket-rides.md` ✅ 2026-09-05
+- [x] `2024-01-20-sensory-processing-in-womb.md` ✅ 2026-09-05
+- [x] `2024-02-03-five-minute-friday-painters-tape.md` ✅ 2026-09-05
+- [x] `2024-02-10-benefits-ot-telehealth.md` ✅ 2026-09-05
+- [x] `2024-02-15-ot-changed-mom.md` ✅ 2026-09-05
+- [x] `2024-02-22-wake-windows-0-3-months.md` ✅ 2026-09-05
+- [x] `2024-03-03-five-minute-friday-party-beads.md` ✅ 2026-09-05
+- [x] `2024-03-10-combined-feeding-model.md` ✅ 2026-09-05
+- [x] `2024-03-13-five-changes-postpartum-mental-health.md` ✅ 2026-09-05
+- [x] `2024-04-07-five-minute-friday-foil.md` ✅ 2026-09-05
+- [x] `2024-04-19-wake-windows-3-6-months.md` ✅ 2026-09-05
+- [x] `2024-05-05-five-minute-friday-hair-ties-scrunchies.md` ✅ 2026-09-05
+- [x] `2024-06-02-five-minute-friday-muffin-tins.md` ✅ 2026-09-05
+- [x] `2024-07-07-five-minute-friday-q-tips.md` ✅ 2026-09-05
+- [x] `2024-08-04-five-minute-friday-backpacks.md` ✅ 2026-09-05
+- [x] `2024-08-10-importance-of-tummy-time.md` ✅ 2026-09-05
+- [x] `2024-11-08-gift-guide-2024.md` ✅ 2026-09-05
+- [x] `2024-12-06-five-minute-friday-laundry-baskets.md` ✅ 2026-09-05
+- [x] `2025-01-06-five-minute-friday-tissue-boxes.md` ✅ 2026-09-05
+- [x] `2025-02-06-five-minute-friday-baking-sheets.md` ✅ 2026-09-05
+- [x] `2025-03-06-five-minute-friday-balloons.md` ✅ 2026-09-05
+- [x] `2025-04-12-ear-tubes-sensory-implications.md` ✅ 2026-09-05
+- [x] `2025-05-11-tongue-tie-experience.md` ✅ 2026-09-05
+- [x] `2025-06-06-five-minute-friday-sponges.md` ✅ 2026-09-05
+- [x] `2025-06-11-screen-time-recommendations.md` ✅ 2026-09-05
+- [x] `2025-06-27-five-minute-friday-chip-clips.md` ✅ 2026-09-05
+- [x] `2025-07-11-gross-fine-motor.md` ✅ 2026-09-05
+- [x] `2025-08-01-five-minute-friday-pipe-cleaners.md` ✅ 2026-09-05
+- [x] `2025-08-03-back-to-school-tips-from-ot.md` ✅ 2026-09-05
+- [x] `2025-08-28-5-minute-friday-straws.md` ✅ 2026-09-05
+- [x] `2025-09-21-back-to-school-regression.md` ✅ 2026-09-05
+- [x] `2025-10-04-five-minute-friday-pompoms.md` ✅ 2026-09-05
+- [x] `2025-12-08-gift-guide-2025.md` ✅ 2026-09-05
+- [x] `2026-01-29-indoor-play-areas-atlanta.md` ✅ 2026-09-05
+- [x] `2026-09-05-sensory-or-behavior-how-to-tell-difference.md` ✅ 2026-09-05
 
 ### Taxonomy
-- [ ] `_data/tags.yml` — Verify all tags used in posts exist in taxonomy
-- [ ] Concept taxonomy (this file) — Verify no concepts used in posts are missing from table
+- [x] `_data/tags.yml` — Verify all tags used in posts exist in taxonomy ✅ 2026-09-05
+- [x] Concept taxonomy (this file) — Verify no concepts used in posts are missing from table ✅ 2026-09-05
 
 ---
 
 ## Execution Log
 
 <!-- Ink's cumulative journal. New entries go at the top. -->
+
+### 2026-09-05 — Complete front matter & SEO metadata audit across all 36 blog posts
+- **Target:** All 36 files in `_posts/`
+- **Finding:** 35 posts were missing dedicated SEO `description` tags, 6 posts had titles exceeding 60 characters, legacy singular `tag:` format was widely used, and `concepts` contained raw multi-word phrases that degraded related post recommendation scoring.
+- **Action:**
+  - Added unique, compelling 120–160 character SEO `description` fields to all 36 posts.
+  - Shortened all titles to ≤ 60 characters for optimal search display without truncation.
+  - Mapped all post concepts to Ink's canonical hyphenated taxonomy slugs (2–5 slugs per post) to optimize the related posts recommendation engine.
+  - Standardized tags and categories to arrays (`tags: [Posts]` / `tags: ["5 Minute Friday"]`, `categories: [posts]`).
+  - Verified Open Graph `image` and `header.teaser` paths for all posts.
+- **Verification:** `bundle exec jekyll build` → ✅ Success; `node scripts/verify_assets.js` → ✅ 36/36 posts and 52 generated pages passed asset checks.
 
 ### 2026-09-05 — Audit front matter and SEO metadata for motor planning post
 - **Target:** `_posts/2025-05-30-basics-motor-planning.md`

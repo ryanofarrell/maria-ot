@@ -1,18 +1,17 @@
 ---
 layout: post
-title: 5 Minute Friday - Aluminum Foil!
+title: "5 Minute Friday - Aluminum Foil!"
 date: 2024-04-07 08:03:00 -0400
-categories: posts
-excerpt: Unroll some fun with aluminum foil! This 5 Minute Friday shows how this kitchen staple boosts fine motor skills, bilateral coordination, and sensory processing for babies and kids. Get ready for creative, beneficial play!
+categories: [posts]
+tags: ["5 Minute Friday"]
+concepts: ["fine-motor", "bilateral-coordination", "sensory-processing", "play-skills"]
+description: "Grab a roll of aluminum foil for quick sensory exploration, fine motor grasping, and auditory cause-and-effect play for babies and toddlers."
+excerpt: "Unroll some fun with aluminum foil! This 5 Minute Friday shows how this kitchen staple boosts fine motor skills, bilateral coordination, and sensory processing for babies and kids. Get ready for creative, beneficial play!"
 classes: wide
-tag: 5 Minute Friday
-concepts: ["fine motor", "bilateral coordination", "sensory exploration", "pre-writing", "play ideas"]
 header:
-    teaser: /assets/images/processed/blog/5mf-foil.jpeg
-image: /assets/images/processed/blog/5mf-foil.jpeg
+  teaser: "/assets/images/processed/blog/5mf-foil.jpeg"
+image: "/assets/images/processed/blog/5mf-foil.jpeg"
 ---
-
-
 Foil is something we all have lying around.  In addition to a must have in the kitchen, it can be a must have to spice up play time!  
 
 Foil is best used for babies 6 months and up who are able to control their hands.  It is shiny, malleable, and makes an interesting, satisfying noise for babies!

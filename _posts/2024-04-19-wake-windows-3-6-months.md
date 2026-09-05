@@ -1,18 +1,17 @@
 ---
 layout: post
-title: How to fill Wake Windows 3-6 Months
+title: "How to fill Wake Windows 3-6 Months"
 date: 2024-04-19 08:03:00 -0400
-categories: posts
-excerpt: Mastering wake windows with your 3-6 month old? Discover 8 engaging, OT-approved activities to foster development, from 'rotisserie chicken play' to 'magic baby,' and make the most of this precious stage.
+categories: [posts]
+tags: ["Posts"]
+concepts: ["gross-motor", "visual-motor", "sensory-processing"]
+description: "Understand wake windows for babies aged 3-6 months. An OT shares key awake times, sleepy signals, and routines to support healthy daytime naps."
+excerpt: "Mastering wake windows with your 3-6 month old? Discover 8 engaging, OT-approved activities to foster development, from 'rotisserie chicken play' to 'magic baby,' and make the most of this precious stage."
 classes: wide
-tag: Posts
-concepts: ["infant activities", "wake windows", "rolling", "tummy time", "visual tracking", "sensory play"]
 header:
-    teaser: /assets/images/processed/blog/wake-windows-3-6.jpeg
-image: /assets/images/processed/blog/wake-windows-3-6.jpeg
-
+  teaser: "/assets/images/processed/blog/wake-windows-3-6.jpeg"
+image: "/assets/images/processed/blog/wake-windows-3-6.jpeg"
 ---
-
 _For 0-3 months [click here]({{ '/blog/wake-windows-0-3-months.html' | relative_url }})_
 
 The 3-6 month phase was one of my favorites!  You are finally getting some positive feedback and encouragement from your little one– the smiles, the coos, watching them make connections and learn, it is truly the best!  Here are some ways to facilitate 3-6 month development!

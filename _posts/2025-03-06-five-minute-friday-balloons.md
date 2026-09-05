@@ -1,19 +1,17 @@
 ---
 layout: post
-title: 5 Minute Friday - Balloons!
+title: "5 Minute Friday - Balloons!"
 date: 2025-03-06 08:03:00 -0400
-categories: posts
-excerpt: Inflate the fun and development with balloons! This 5 Minute Friday offers playful activities for babies, toddlers, and big kids to enhance core strength, visual tracking, motor skills, and even emotional regulation.
+categories: [posts]
+tags: ["5 Minute Friday"]
+concepts: ["gross-motor", "visual-motor", "self-regulation", "play-skills"]
+description: "Use balloons for gentle visual tracking, hand-eye coordination, and gross motor balance games suitable for indoor movement breaks."
+excerpt: "Inflate the fun and development with balloons! This 5 Minute Friday offers playful activities for babies, toddlers, and big kids to enhance core strength, visual tracking, motor skills, and even emotional regulation."
 classes: wide
-concepts: ["gross motor", "visual tracking", "emotional regulation", "play ideas"]
-tag: 5 Minute Friday
 header:
-    teaser: /assets/images/processed/blog/5mf-balloons.jpeg
-image: /assets/images/processed/blog/5mf-balloons.jpeg
-
+  teaser: "/assets/images/processed/blog/5mf-balloons.jpeg"
+image: "/assets/images/processed/blog/5mf-balloons.jpeg"
 ---
-
-
 We love a party vibe! Simple latex balloons are fantastic for endless fun for kids of all ages!
 
 ## Balloons for Babies

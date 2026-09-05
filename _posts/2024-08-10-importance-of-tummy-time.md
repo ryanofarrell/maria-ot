@@ -1,17 +1,17 @@
 ---
 layout: post
-title: The Importance of Tummy Time
+title: "The Importance of Tummy Time"
 date: 2024-08-10 08:03:00 -0400
-categories: posts
-excerpt: Tummy time is crucial, but do you know all 7 reasons why? This OT deep-dive explains its vital role in oral motor skills, core strength, vision, and more, plus answers your top FAQs for success.
+categories: [posts]
+tags: ["Posts"]
+concepts: ["gross-motor", "feeding", "core-strength"]
+description: "Why is tummy time crucial? A pediatric OT explains how tummy time builds neck and core strength, prevents flat spots, and lays motor foundations."
+excerpt: "Tummy time is crucial, but do you know all 7 reasons why? This OT deep-dive explains its vital role in oral motor skills, core strength, vision, and more, plus answers your top FAQs for success."
 classes: wide
-tag: Posts
-concepts: ["tummy time", "infant development", "oral motor", "core strength", "visual development", "reflex integration"]
 header:
-    teaser: /assets/images/processed/blog/tummy-time.jpeg
-image: /assets/images/processed/blog/tummy-time.jpeg
+  teaser: "/assets/images/processed/blog/tummy-time.jpeg"
+image: "/assets/images/processed/blog/tummy-time.jpeg"
 ---
-
 Most new parents have heard of tummy time, and know that their baby should be doing tummy time; however, no one ever explains why tummy time is so important!   In reality, the benefits of tummy time are endless, and can be even more important for babies with [tethered oral tissues]({{ '/topics/feeding-and-oral-motor/' | relative_url }}) (TOTs- tongue ties, lip ties, buccal ties).  Here are some of the highlights:
 
 1. **Oral motor skill improvement** - Tummy Time is essential to stretch the hypoglossal (tongue) and neck muscles necessary for improved oral motor skills.  The tongue is the only muscle in the body that does not have an insertion point (unless there is a tongue tie present).  The tongue originates in the hyoid bone in the neck.  In order to have full tongue mobility, the neck must stretch so that the tongue can reach full range of motion.  This is essential for [feeding skills]({{ '/topics/feeding-and-oral-motor/' | relative_url }}) like when we use our tongue to move a bolus of food to our molars to chew and to the back of our palate to swallow.  In addition, the tongue assumes optimal positioning in the palate in tummy time and is an excellent way to improve sucking strength for more efficient feeding.

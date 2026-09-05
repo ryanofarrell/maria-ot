@@ -1,19 +1,17 @@
 ---
 layout: post
-title: 5 Minute Friday - Q-Tips!
+title: "5 Minute Friday - Q-Tips!"
 date: 2024-07-07 08:03:00 -0400
-categories: posts
-excerpt: Unlock fine motor magic with Q-tips! This 5 Minute Friday provides easy, age-specific activities for babies, toddlers, and big kids to develop grasp, pre-writing skills, and letter formation.
+categories: [posts]
+tags: ["5 Minute Friday"]
+concepts: ["fine-motor", "play-skills"]
+description: "Discover simple Q-tip activities to refine your child's pincer grasp, pre-writing hand strength, and bilateral coordination using household items."
+excerpt: "Unlock fine motor magic with Q-tips! This 5 Minute Friday provides easy, age-specific activities for babies, toddlers, and big kids to develop grasp, pre-writing skills, and letter formation."
 classes: wide
-tag: 5 Minute Friday
-concepts: ["fine motor", "grasp development", "pre-writing", "letter formation", "play ideas"]
 header:
-    teaser: /assets/images/processed/blog/5mf-qtips.jpeg
-image: /assets/images/processed/blog/5mf-qtips.jpeg
-
+  teaser: "/assets/images/processed/blog/5mf-qtips.jpeg"
+image: "/assets/images/processed/blog/5mf-qtips.jpeg"
 ---
-
-
 Q-tips are a bathroom staple, but can also be used to develop so many skills for kids of all ages!  The best news– minimal set up and clean up!
 
 ## Babies

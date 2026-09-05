@@ -1,18 +1,17 @@
 ---
 layout: post
-title: 5 Minute Friday - Pipe Cleaners!
+title: "5 Minute Friday - Pipe Cleaners!"
 date: 2025-08-01 08:03:00 -0400
-categories: posts
+categories: [posts]
+tags: ["5 Minute Friday"]
+concepts: ["fine-motor", "sensory-processing", "bilateral-coordination", "executive-function", "play-skills"]
+description: "Twist and create with pipe cleaners! Easy fine motor, threading, and bilateral coordination activities that strengthen hands and foster creativity."
 excerpt: "Twist, bend, and build with pipe cleaners! This 5 Minute Friday is packed with simple, sensory-friendly play ideas for babies, toddlers, and big kids to boost fine motor skills, problem-solving, and creativity."
 classes: wide
-tag: 5 Minute Friday
-concepts: ["fine motor", "sensory exploration", "pincer grasp", "bilateral coordination", "pre-writing", "problem-solving", "play ideas"]
 header:
-  teaser: /assets/images/processed/blog/5mf-pipe-cleaners.jpeg
-image: /assets/images/processed/blog/5mf-pipe-cleaners.jpeg
-
+  teaser: "/assets/images/processed/blog/5mf-pipe-cleaners.jpeg"
+image: "/assets/images/processed/blog/5mf-pipe-cleaners.jpeg"
 ---
-
 I love pipe cleaners! 🙌 They’re affordable, colorful, and so versatile—perfect for easy, last-minute play across all age groups. Whether you’ve got a baby or a big kid, these activities are quick to set up and fun to play.
 
 ### For Babies 👶
