@@ -52,7 +52,11 @@
       "url": {{ site.url | jsonify }},
       "logo": {{ site.logo | prepend: site.url | jsonify }},
       "telephone": {{ site.phone-numeric | jsonify }},
+      "email": {{ site.email | jsonify }},
       "image": "{{ sitetext.team.people[0].image | prepend: site.url }}",
+      "priceRange": "$$",
+      "paymentAccepted": "Cash, Credit Card, HSA, FSA",
+      "openingHours": "Mo-Fr 08:30-14:30",
       "address": {
         "@type": "PostalAddress",
         "addressLocality": "Atlanta",
@@ -74,7 +78,18 @@
         {%- endfor -%}
       {%- endfor -%}
       "knowsAbout": {{ expertise | jsonify }},
-      "sameAs": ["{{ site.instagram_url }}", "{{ site.google_business_url }}"]
+      "sameAs": [
+        {%- assign same_as_links = "" | split: "" -%}
+        {%- if site.instagram_url and site.instagram_url != "" -%}
+          {%- assign same_as_links = same_as_links | push: site.instagram_url -%}
+        {%- endif -%}
+        {%- if site.google_business_url and site.google_business_url != "" -%}
+          {%- assign same_as_links = same_as_links | push: site.google_business_url -%}
+        {%- endif -%}
+        {%- for link in same_as_links -%}
+          {{ link | jsonify }}{%- unless forloop.last -%},{%- endunless -%}
+        {%- endfor -%}
+      ]
     }
   </script>
 {%- endif -%}

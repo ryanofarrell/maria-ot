@@ -135,7 +135,7 @@ done
 ## Coverage Tracker
 
 ### Schema.org Blocks
-- [ ] `_includes/head/custom.html` — Organization + LocalBusiness schema
+- [x] `_includes/head/custom.html` — Organization + LocalBusiness schema ✅ 2026-09-05
 - [ ] `services.html` — Service + ItemList schema
 - [ ] `faq.html` — FAQPage schema (verify it exists or create)
 
@@ -166,4 +166,8 @@ done
 
 <!-- Search's cumulative journal. New entries go at the top. -->
 
-*No entries yet. First audit pending.*
+### 2026-09-05 — Complete Organization and LocalBusiness Schema.org properties
+- **Target:** `_includes/head/custom.html`
+- **Finding:** Structured data block lacked required/recommended properties (`email`, `priceRange`, `paymentAccepted`, and valid `openingHours`). Additionally, `sameAs` array lacked conditional filtering to prevent empty URL strings.
+- **Action:** Added `email`, `priceRange`, `paymentAccepted`, and `openingHours` to the JSON-LD schema block, and wrapped `sameAs` links with conditional filtering and proper `jsonify` filter.
+- **Verification:** `bundle exec jekyll build` → ✅ Success, validated JSON-LD schema with `python3` JSON parser.
