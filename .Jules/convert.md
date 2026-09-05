@@ -153,7 +153,7 @@ done
 ## Coverage Tracker
 
 ### Static Pages — Hook Audit
-- [ ] `services.html` — Has hook? Contextually relevant?
+- [x] `services.html` — Has hook? Contextually relevant? ✅ 2026-09-05
 - [ ] `contact.html` — Has hook? Next step clear?
 - [ ] `faq.html` — Has hook? Guides to services or blog?
 - [ ] `meet-maria.html` — Has hook? Guides to services or contact?
@@ -170,4 +170,10 @@ done
 
 ## Execution Log
 
-*No entries yet. First audit pending.*
+<!-- Convert's cumulative journal. New entries go at the top. -->
+
+### 2026-09-05 — Replace hardcoded two-column CTA with reusable soft_hook component
+- **Target:** `services.html`
+- **Finding:** Bottom of `services.html` contained a hardcoded two-column card structure instead of the standardized `_includes/soft_hook.html` component, violating the single soft hook per page pattern.
+- **Action:** Replaced the two-column block with a single `{% include soft_hook.html %}` linking to `/blog/` with value-first copy for parents seeking free child development resources.
+- **Verification:** `bundle exec jekyll build` → ✅ Success
