@@ -1,12 +1,21 @@
 ---
 layout: post
-title: "Understanding Gross & Fine Motor Development Milestones"
-date: 2025-07-11 09:00:00 -0500
-categories: [posts]
-tags: ["Posts"]
-concepts: ["gross-motor", "fine-motor"]
-description: "Understand gross and fine motor milestones from infancy to age 6, and learn practical signs for when pediatric OT evaluation may be beneficial."
-excerpt: "An overview of fine and gross motor skills, key developmental milestones from 0 months to 6 years, and guidance on when to seek intervention if you have concerns about your child's motor development."
+title: Understanding Gross & Fine Motor Development Milestones
+date: 2025-07-11 09:00:00.000000000 -05:00
+categories:
+- motor-development
+tags:
+- Posts
+concepts:
+- gross-motor
+- fine-motor
+- core-strength
+- motor-planning
+description: Understand gross and fine motor milestones from infancy to age 6, and
+  learn practical signs for when pediatric OT evaluation may be beneficial.
+excerpt: An overview of fine and gross motor skills, key developmental milestones
+  from 0 months to 6 years, and guidance on when to seek intervention if you have
+  concerns about your child's motor development.
 classes: wide
 header:
   teaser: "/assets/images/processed/blog/gross-fine-motor.jpeg"

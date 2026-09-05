@@ -113,57 +113,74 @@ layout: default
           <h2 class="h3 text-center mb-4">Related Posts</h2>
 
           {% comment %} --- Stage 1: Prepare data for the current page --- {% endcomment %}
-          {% assign current_page_concepts_downcased = "" | split: "" %}
-          {% assign concept_delimiter = "|||" %}
-          {% if page.concepts.size > 0 %}
-            {% assign current_page_concepts_downcased = page.concepts | join: concept_delimiter | downcase | split: concept_delimiter %}
-          {% endif %}
-          {% assign current_page_singular_tag_downcased = page.tag | downcase %}
           {% assign current_post_url = page.url %}
+          {% assign delimiter = "|||" %}
+
+          {% assign current_concepts_str = page.concepts | join: delimiter | downcase %}
+          {% assign current_categories_str = page.categories | join: delimiter | downcase %}
+          {% assign current_tags_str = page.tags | join: delimiter | downcase %}
+
+          {% assign current_page_concepts = current_concepts_str | split: delimiter %}
+          {% assign current_page_categories = current_categories_str | split: delimiter %}
+          {% assign current_page_tags = current_tags_str | split: delimiter %}
 
           {% comment %} --- Stage 2: Calculate scores and gather candidates --- {% endcomment %}
           {% assign posts_data_for_sorting = "" | split: "" %}
+          {% assign W_CATEGORY_MATCH = 3 %}
           {% assign W_CONCEPTS = 2 %}
-          {% assign W_CATEGORY_MATCH = 1 %}
+          {% assign W_TAG_MATCH = 1 %}
 
           {% for post_item in site.posts %}
             {% if post_item.url == current_post_url %}
               {% continue %}
             {% endif %}
 
-            {% comment %} Prepare downcased concepts for the iterated post_item {% endcomment %}
-            {% assign other_post_concepts_downcased = "" | split: "" %}
-            {% assign has_concepts = false %}
-            {% if current_page_concepts_downcased.size > 0 and post_item.concepts.size > 0 %}
-              {% assign has_concepts = true %}
+            {% assign other_concepts_str = post_item.concepts | join: delimiter | downcase %}
+            {% assign other_categories_str = post_item.categories | join: delimiter | downcase %}
+            {% assign other_tags_str = post_item.tags | join: delimiter | downcase %}
+
+            {% assign other_post_concepts = other_concepts_str | split: delimiter %}
+            {% assign other_post_categories = other_categories_str | split: delimiter %}
+            {% assign other_post_tags = other_tags_str | split: delimiter %}
+
+            {% comment %} Calculate category match score {% endcomment %}
+            {% assign common_categories_count = 0 %}
+            {% if current_page_categories.size > 0 and other_post_categories.size > 0 %}
+              {% for cat in current_page_categories %}
+                {% if cat != "" and other_post_categories contains cat %}
+                  {% assign common_categories_count = common_categories_count | plus: 1 %}
+                {% endif %}
+              {% endfor %}
             {% endif %}
-            {% if has_concepts %}
-              {% assign other_post_concepts_downcased = post_item.concepts | join: concept_delimiter | downcase | split: concept_delimiter %}
-            {% endif %}
-            {% assign other_post_singular_tag_downcased = post_item.tag | downcase %}
 
             {% comment %} Calculate common concepts count {% endcomment %}
             {% assign common_concepts_count = 0 %}
-            {% if current_page_concepts_downcased.size > 0 and other_post_concepts_downcased.size > 0 %}
-              {% for current_concept in current_page_concepts_downcased %}
-                {% if other_post_concepts_downcased contains current_concept %}
+            {% if current_page_concepts.size > 0 and other_post_concepts.size > 0 %}
+              {% for current_concept in current_page_concepts %}
+                {% if current_concept != "" and other_post_concepts contains current_concept %}
                   {% assign common_concepts_count = common_concepts_count | plus: 1 %}
                 {% endif %}
               {% endfor %}
             {% endif %}
 
-            {% comment %} Calculate category match score {% endcomment %}
-            {% assign category_match_score = 0 %}
-            {% if current_page_singular_tag_downcased == other_post_singular_tag_downcased %}
-              {% assign category_match_score = W_CATEGORY_MATCH %}
+            {% comment %} Calculate tag/format match score {% endcomment %}
+            {% assign common_tags_count = 0 %}
+            {% if current_page_tags.size > 0 and other_post_tags.size > 0 %}
+              {% for t in current_page_tags %}
+                {% if t != "" and other_post_tags contains t %}
+                  {% assign common_tags_count = common_tags_count | plus: 1 %}
+                {% endif %}
+              {% endfor %}
             {% endif %}
 
             {% comment %} Calculate total score {% endcomment %}
-            {% assign total_score = 0 %}
+            {% assign category_score = common_categories_count | times: W_CATEGORY_MATCH %}
             {% assign concepts_score = common_concepts_count | times: W_CONCEPTS %}
-            {% assign total_score = concepts_score | plus: category_match_score %}
+            {% assign tag_score = common_tags_count | times: W_TAG_MATCH %}
+            {% assign total_score = category_score | plus: concepts_score | plus: tag_score %}
 
-            {% if total_score > 0 %}
+            {% comment %} Require substantive conceptual or categorical relevance {% endcomment %}
+            {% if category_score > 0 or concepts_score > 0 %}
               {% assign score_padded = total_score | prepend: "0000" | slice: -4, 4 %}
               {% assign timestamp = post_item.date | date: "%s" %}
               {% capture sort_key %}{{ score_padded }}_{{ timestamp }}{% endcapture %}

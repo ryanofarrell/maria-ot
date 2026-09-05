@@ -1,12 +1,20 @@
 ---
 layout: post
-title: "The Truth About Tongue Ties: A Pediatric OT Perspective"
-date: 2025-05-11 08:00:00 -0400
-categories: [posts]
-tags: ["Posts"]
-concepts: ["feeding", "play-skills", "sensory-processing"]
-description: "A pediatric OT shares her professional and personal experience with infant tongue ties, release procedures, bodywork, and feeding therapy support."
-excerpt: "Maria O'Farrell shares her personal and professional insights on identifying infant tongue ties, the decision-making process for release, and the crucial therapies involved before and after the procedure."
+title: 'The Truth About Tongue Ties: A Pediatric OT Perspective'
+date: 2025-05-11 08:00:00.000000000 -04:00
+categories:
+- feeding-and-oral-motor
+tags:
+- Posts
+concepts:
+- feeding
+- infant-development
+- caregiver-wellness
+description: A pediatric OT shares her professional and personal experience with infant
+  tongue ties, release procedures, bodywork, and feeding therapy support.
+excerpt: Maria O'Farrell shares her personal and professional insights on identifying
+  infant tongue ties, the decision-making process for release, and the crucial therapies
+  involved before and after the procedure.
 classes: wide
 header:
   teaser: "/assets/images/processed/blog/tongue-tie-experience.jpeg"

@@ -1,12 +1,21 @@
 ---
 layout: post
-title: "5 Great Indoor Play Areas in Atlanta for Cold Weather"
-date: 2026-01-29 08:00:00 -0500
-categories: [posts]
-tags: ["Posts"]
-concepts: ["sensory-processing", "gross-motor", "self-regulation", "motor-planning", "body-awareness"]
-description: "Explore 5 top indoor play areas in Atlanta recommended by an OT for cold days, offering proprioceptive heavy work, climbing, and sensory regulation."
-excerpt: "Too cold to play outside? An Atlanta pediatric OT shares her top 5 indoor play spots for burning energy, building motor skills, and keeping kids regulated during winter."
+title: 5 Great Indoor Play Areas in Atlanta for Cold Weather
+date: 2026-01-29 08:00:00.000000000 -05:00
+categories:
+- motor-development
+tags:
+- Posts
+concepts:
+- gross-motor
+- sensory-processing
+- self-regulation
+- motor-planning
+description: Explore 5 top indoor play areas in Atlanta recommended by an OT for cold
+  days, offering proprioceptive heavy work, climbing, and sensory regulation.
+excerpt: Too cold to play outside? An Atlanta pediatric OT shares her top 5 indoor
+  play spots for burning energy, building motor skills, and keeping kids regulated
+  during winter.
 classes: wide
 header:
   teaser: "/assets/images/processed/blog/indoor-play-atlanta.jpeg"

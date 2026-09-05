@@ -1,12 +1,20 @@
 ---
 layout: post
-title: "5 Benefits of Doing Occupational Therapy Through Telehealth"
-date: 2024-02-10 08:03:00 -0400
-categories: [posts]
-tags: ["Posts"]
-concepts: ["sensory-processing", "play-skills"]
-description: "Discover how pediatric OT telehealth empowers parents with practical strategies, comfortable home routines, and effective virtual developmental support."
-excerpt: "Is OT telehealth effective? Discover 5 surprising benefits, from unmatched convenience to increased parent education and using your own home environment for tailored therapy. Learn why it's here to stay."
+title: 5 Benefits of Doing Occupational Therapy Through Telehealth
+date: 2024-02-10 08:03:00.000000000 -04:00
+categories:
+- sensory-processing
+tags:
+- Posts
+concepts:
+- caregiver-wellness
+- daily-living
+- play-skills
+description: Discover how pediatric OT telehealth empowers parents with practical
+  strategies, comfortable home routines, and effective virtual developmental support.
+excerpt: Is OT telehealth effective? Discover 5 surprising benefits, from unmatched
+  convenience to increased parent education and using your own home environment for
+  tailored therapy. Learn why it's here to stay.
 classes: wide
 header:
   teaser: "/assets/images/processed/blog/tele-health.jpeg"

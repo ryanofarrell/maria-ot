@@ -82,12 +82,16 @@ permalink: /topics/feeding-and-oral-motor/
       {% assign post_count = 0 %}
       {% for post in site.posts %}
         {% assign show_post = false %}
-        {% for concept in post.concepts %}
-          {% assign concept_slug = concept | slugify %}
-          {% if concept_slug == "feeding" or concept_slug == "infant-feeding" or concept_slug == "oral-motor" or concept_slug == "tongue-tie" or concept_slug == "frenectomy" or concept_slug == "bodywork" or concept_slug == "collaborative-care" or concept_slug == "baby-led-weaning" or concept_slug == "purees" or concept_slug == "utensil-skills" or concept_slug == "mealtime" %}
-            {% assign show_post = true %}
-          {% endif %}
-        {% endfor %}
+        {% if post.categories contains "feeding-and-oral-motor" %}
+          {% assign show_post = true %}
+        {% else %}
+          {% for concept in post.concepts %}
+            {% assign concept_slug = concept | slugify %}
+            {% if concept_slug == "feeding" %}
+              {% assign show_post = true %}
+            {% endif %}
+          {% endfor %}
+        {% endif %}
         
         {% if show_post %}
           {% if post_count < 3 %}
@@ -114,7 +118,11 @@ permalink: /topics/feeding-and-oral-motor/
                   </div>
                   <p class="blog-card-meta mb-0 mt-3 pt-2" style="border-top: 1px solid #f1f5f9;">
                     <small class="text-muted">{{ post.date | date: "%B %d, %Y" }}</small>
-                    {% if post.tag %}
+                    {% if post.tags %}
+                      {% for t in post.tags %}
+                        <span class="badge badge-pill badge-primary ml-2 py-1 px-2" style="background-color: var(--primary-light); color: var(--primary); font-size: 0.75rem;">{{ t }}</span>
+                      {% endfor %}
+                    {% elsif post.tag %}
                       <span class="badge badge-pill badge-primary ml-2 py-1 px-2" style="background-color: var(--primary-light); color: var(--primary); font-size: 0.75rem;">{{ post.tag }}</span>
                     {% endif %}
                   </p>

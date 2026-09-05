@@ -1,12 +1,20 @@
 ---
 layout: post
-title: "Sensory Processing Starts in the Womb"
-date: 2024-01-20 08:03:00 -0400
-categories: [posts]
-tags: ["Posts"]
-concepts: ["sensory-processing", "body-awareness"]
-description: "Did you know sensory processing begins before birth? An OT explains how early vestibular and proprioceptive senses lay the foundation for motor development."
-excerpt: "Did you know sensory processing begins before birth? An OT explains the fascinating development of primitive senses in the womb and how these lay the foundation for your baby's future motor skills and regulation."
+title: Sensory Processing Starts in the Womb
+date: 2024-01-20 08:03:00.000000000 -04:00
+categories:
+- newborn-development
+tags:
+- Posts
+concepts:
+- infant-development
+- sensory-processing
+- body-awareness
+description: Did you know sensory processing begins before birth? An OT explains how
+  early vestibular and proprioceptive senses lay the foundation for motor development.
+excerpt: Did you know sensory processing begins before birth? An OT explains the fascinating
+  development of primitive senses in the womb and how these lay the foundation for
+  your baby's future motor skills and regulation.
 classes: wide
 header:
   teaser: "/assets/images/processed/blog/sensory-processing-womb.jpeg"

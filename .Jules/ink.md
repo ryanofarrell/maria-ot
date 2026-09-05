@@ -46,13 +46,26 @@ image: "/assets/images/processed/filename-800w.avif"     # REQUIRED (Open Graph)
 ---
 ```
 
+### Categories Taxonomy (Aligned with Resources Hub)
+
+Every post MUST be assigned to 1 primary category from the Resources Hub:
+
+| Category Slug | Parent Resource Pillar |
+|---|---|
+| `sensory-processing` | Sensory Processing |
+| `motor-development` | Motor Development |
+| `feeding-and-oral-motor` | Feeding & Oral Motor |
+| `at-home-play` | At-Home Play (5 Minute Fridays & Play Guides) |
+| `newborn-development` | Newborn & Infant Development |
+| `school-readiness` | School Readiness & Focus |
+
 ### Concept Taxonomy (Canonical Terms)
 
-Use these exact slugs in the `concepts` array. Do not invent new ones without documenting them here.
+Use these exact slugs in the `concepts` array (2–5 items per post). Do not invent new ones without documenting them here.
 
 | Concept Slug | Display Name |
 |---|---|
-| `motor-planning` | Motor Planning |
+| `motor-planning` | Motor Planning (Praxis) |
 | `fine-motor` | Fine Motor Skills |
 | `gross-motor` | Gross Motor Skills |
 | `sensory-processing` | Sensory Processing |
@@ -68,6 +81,10 @@ Use these exact slugs in the `concepts` array. Do not invent new ones without do
 | `daily-living` | Daily Living Skills (ADLs) |
 | `attention` | Attention & Focus |
 | `body-awareness` | Body Awareness (Proprioception) |
+| `infant-development` | Infant Development & Milestones |
+| `caregiver-wellness` | Caregiver & Postpartum Wellness |
+| `school-transitions` | School Readiness & Transitions |
+| `routines-and-habits` | Routines, Habits & Sleep |
 
 > **To add a new concept:** Add it to this table AND to `_data/tags.yml` in the same commit.
 
@@ -216,6 +233,22 @@ done
 ## Execution Log
 
 <!-- Ink's cumulative journal. New entries go at the top. -->
+
+### 2026-09-05 — Complete blog concepts, tags, scoring algorithm, and Resources hub alignment
+- **Target:** All 36 posts in `_posts/`, `_layouts/post.html`, `blog/index.html`, and `topics/*.html`
+- **Finding:**
+  - `topics/newborn-development.html` and `topics/school-readiness.html` displayed 0 articles due to legacy slug mismatch.
+  - Related posts algorithm in `_layouts/post.html` compared `page.tag` (nil), causing all posts to match `"" == ""` (+1 point) and include unrelated posts.
+  - Concepts `sensory-processing` and `play-skills` were over-assigned across 67% of posts, diluting relevance.
+  - Interactive filter buttons on `blog/index.html` broke because `data-tags` was empty when `post.tag` was nil.
+- **Action:**
+  - Expanded concept taxonomy with 4 new targeted concepts: `infant-development`, `caregiver-wellness`, `school-transitions`, `routines-and-habits`.
+  - Reclassified all 36 posts to map `categories:` directly to the 6 Resources Hub pillars (`sensory-processing`, `motor-development`, `feeding-and-oral-motor`, `at-home-play`, `newborn-development`, `school-readiness`).
+  - Pruned generic "stopword" concepts from unrelated posts and assigned accurate developmental concepts.
+  - Upgraded related posts scoring algorithm: Categories (weight 3), Concepts (weight 2), Tags/Format (weight 1), requiring categorical or conceptual match before inclusion.
+  - Fixed `topics/*.html` loops to filter on `post.categories` and canonical concepts.
+  - Fixed `blog/index.html` to populate `data-tags` and render badges from `post.tags` array.
+- **Verification:** `bundle exec jekyll build` → ✅ Success (0.84s); `node scripts/verify_assets.js` → ✅ Passed (52 HTML pages, 36 posts); all 6 topic pages verified rendering 3 relevant cards each; verified related posts relevance across clinical topics.
 
 ### 2026-09-05 — Complete front matter & SEO metadata audit across all 36 blog posts
 - **Target:** All 36 files in `_posts/`

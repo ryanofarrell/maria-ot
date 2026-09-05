@@ -1,12 +1,22 @@
 ---
 layout: post
-title: "5 Minute Friday - Chip Clips!"
-date: 2025-06-27 08:03:00 -0400
-categories: [posts]
-tags: ["5 Minute Friday"]
-concepts: ["fine-motor", "core-strength", "bilateral-coordination", "daily-living", "play-skills"]
-description: "Use simple chip clips to build pinch strength, hand endurance, and bilateral coordination with easy 5-minute OT games you can do at home."
-excerpt: "Don’t toss those chip clips back in the drawer just yet—use them for play! From babies building core strength to big kids working on fine motor skills, chip clips are a simple, affordable tool for creative and therapeutic fun at home."
+title: 5 Minute Friday - Chip Clips!
+date: 2025-06-27 08:03:00.000000000 -04:00
+categories:
+- at-home-play
+tags:
+- 5 Minute Friday
+concepts:
+- fine-motor
+- core-strength
+- bilateral-coordination
+- daily-living
+- play-skills
+description: Use simple chip clips to build pinch strength, hand endurance, and bilateral
+  coordination with easy 5-minute OT games you can do at home.
+excerpt: Don’t toss those chip clips back in the drawer just yet—use them for play!
+  From babies building core strength to big kids working on fine motor skills, chip
+  clips are a simple, affordable tool for creative and therapeutic fun at home.
 classes: wide
 header:
   teaser: "/assets/images/processed/blog/5mf-chip-clips.jpeg"

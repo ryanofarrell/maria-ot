@@ -1,12 +1,21 @@
 ---
 layout: post
-title: "5 Minute Friday - Aluminum Foil!"
-date: 2024-04-07 08:03:00 -0400
-categories: [posts]
-tags: ["5 Minute Friday"]
-concepts: ["fine-motor", "bilateral-coordination", "sensory-processing", "play-skills"]
-description: "Grab a roll of aluminum foil for quick sensory exploration, fine motor grasping, and auditory cause-and-effect play for babies and toddlers."
-excerpt: "Unroll some fun with aluminum foil! This 5 Minute Friday shows how this kitchen staple boosts fine motor skills, bilateral coordination, and sensory processing for babies and kids. Get ready for creative, beneficial play!"
+title: 5 Minute Friday - Aluminum Foil!
+date: 2024-04-07 08:03:00.000000000 -04:00
+categories:
+- at-home-play
+tags:
+- 5 Minute Friday
+concepts:
+- fine-motor
+- bilateral-coordination
+- sensory-processing
+- play-skills
+description: Grab a roll of aluminum foil for quick sensory exploration, fine motor
+  grasping, and auditory cause-and-effect play for babies and toddlers.
+excerpt: Unroll some fun with aluminum foil! This 5 Minute Friday shows how this kitchen
+  staple boosts fine motor skills, bilateral coordination, and sensory processing
+  for babies and kids. Get ready for creative, beneficial play!
 classes: wide
 header:
   teaser: "/assets/images/processed/blog/5mf-foil.jpeg"

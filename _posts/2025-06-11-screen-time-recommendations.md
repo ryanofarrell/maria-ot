@@ -1,12 +1,21 @@
 ---
 layout: post
-title: "Screen Time Advice from a Pediatric OT & Mom"
-date: 2025-06-11 09:00:00 -0400
-categories: [posts]
-tags: ["Posts"]
-concepts: ["play-skills", "attention", "social-skills", "sensory-processing"]
-description: "Practical screen time advice from a pediatric OT and mom: setting boundaries, picking high-quality shows, and prioritizing active developmental play."
-excerpt: "A pediatric OT and mom shares her practical guidelines for screen time, focusing on why bigger screens are better, setting limits, choosing quality shows, and prioritizing play to support healthy development."
+title: Screen Time Advice from a Pediatric OT & Mom
+date: 2025-06-11 09:00:00.000000000 -04:00
+categories:
+- school-readiness
+tags:
+- Posts
+concepts:
+- routines-and-habits
+- attention
+- social-skills
+- play-skills
+description: 'Practical screen time advice from a pediatric OT and mom: setting boundaries,
+  picking high-quality shows, and prioritizing active developmental play.'
+excerpt: A pediatric OT and mom shares her practical guidelines for screen time, focusing
+  on why bigger screens are better, setting limits, choosing quality shows, and prioritizing
+  play to support healthy development.
 classes: wide
 header:
   teaser: "/assets/images/processed/blog/screen-time.jpeg"

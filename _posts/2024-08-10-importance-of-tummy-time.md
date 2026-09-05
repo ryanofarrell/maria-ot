@@ -1,12 +1,21 @@
 ---
 layout: post
-title: "The Importance of Tummy Time"
-date: 2024-08-10 08:03:00 -0400
-categories: [posts]
-tags: ["Posts"]
-concepts: ["gross-motor", "feeding", "core-strength"]
-description: "Why is tummy time crucial? A pediatric OT explains how tummy time builds neck and core strength, prevents flat spots, and lays motor foundations."
-excerpt: "Tummy time is crucial, but do you know all 7 reasons why? This OT deep-dive explains its vital role in oral motor skills, core strength, vision, and more, plus answers your top FAQs for success."
+title: The Importance of Tummy Time
+date: 2024-08-10 08:03:00.000000000 -04:00
+categories:
+- newborn-development
+tags:
+- Posts
+concepts:
+- infant-development
+- gross-motor
+- core-strength
+- feeding
+description: Why is tummy time crucial? A pediatric OT explains how tummy time builds
+  neck and core strength, prevents flat spots, and lays motor foundations.
+excerpt: Tummy time is crucial, but do you know all 7 reasons why? This OT deep-dive
+  explains its vital role in oral motor skills, core strength, vision, and more, plus
+  answers your top FAQs for success.
 classes: wide
 header:
   teaser: "/assets/images/processed/blog/tummy-time.jpeg"

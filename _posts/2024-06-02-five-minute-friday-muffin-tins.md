@@ -1,12 +1,21 @@
 ---
 layout: post
-title: "5 Minute Friday - Muffin Tins!"
-date: 2024-06-02 08:03:00 -0400
-categories: [posts]
-tags: ["5 Minute Friday"]
-concepts: ["fine-motor", "executive-function", "play-skills"]
-description: "Transform a standard muffin tin into a developmental play station for sorting, pincer grasp practice, and visual-motor coordination games."
-excerpt: "Grab a muffin tin for your next 5 Minute Friday! Discover how this kitchen staple can boost grasping, scooping, sorting, and even executive functioning skills in babies, toddlers, and big kids."
+title: 5 Minute Friday - Muffin Tins!
+date: 2024-06-02 08:03:00.000000000 -04:00
+categories:
+- at-home-play
+tags:
+- 5 Minute Friday
+concepts:
+- fine-motor
+- executive-function
+- play-skills
+- visual-motor
+description: Transform a standard muffin tin into a developmental play station for
+  sorting, pincer grasp practice, and visual-motor coordination games.
+excerpt: Grab a muffin tin for your next 5 Minute Friday! Discover how this kitchen
+  staple can boost grasping, scooping, sorting, and even executive functioning skills
+  in babies, toddlers, and big kids.
 classes: wide
 header:
   teaser: "/assets/images/processed/blog/5mf-muffin.jpeg"

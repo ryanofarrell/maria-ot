@@ -1,12 +1,21 @@
 ---
 layout: post
-title: "5 Minute Friday - Pom Poms!"
-date: 2025-10-14 08:03:00 -0400
-categories: [posts]
-tags: ["5 Minute Friday"]
-concepts: ["fine-motor", "sensory-processing", "feeding", "bilateral-coordination", "visual-motor"]
-description: "Use pom poms and cotton balls to target pincer grasp, oral motor blowing, visual tracking, and tactile play in quick 5-minute home activities."
-excerpt: "Transform pom poms or cotton balls into powerful developmental tools! This 5 Minute Friday offers quick, sensory-rich activities for babies, toddlers, and big kids to boost fine motor, oral motor, and visual skills."
+title: 5 Minute Friday - Pom Poms!
+date: 2025-10-14 08:03:00.000000000 -04:00
+categories:
+- at-home-play
+tags:
+- 5 Minute Friday
+concepts:
+- fine-motor
+- visual-motor
+- feeding
+- play-skills
+description: Use pom poms and cotton balls to target pincer grasp, oral motor blowing,
+  visual tracking, and tactile play in quick 5-minute home activities.
+excerpt: Transform pom poms or cotton balls into powerful developmental tools! This
+  5 Minute Friday offers quick, sensory-rich activities for babies, toddlers, and
+  big kids to boost fine motor, oral motor, and visual skills.
 classes: wide
 header:
   teaser: "/assets/images/processed/blog/5mf-pompoms.jpeg"

@@ -1,12 +1,21 @@
 ---
 layout: post
-title: "5 Minute Friday - Blanket Rides!"
-date: 2024-01-06 08:03:00 -0400
-categories: [posts]
-tags: ["5 Minute Friday"]
-concepts: ["sensory-processing", "body-awareness", "core-strength", "play-skills"]
-description: "Boost your child's vestibular and proprioceptive systems with blanket rides. Explore easy, play-based OT activities for core strength and regulation."
-excerpt: "Turn a simple blanket into a powerhouse of developmental fun! Discover the surprising benefits of blanket rides for your baby's sensory input, core strength, and bonding in this 5 Minute Friday activity"
+title: 5 Minute Friday - Blanket Rides!
+date: 2024-01-06 08:03:00.000000000 -04:00
+categories:
+- at-home-play
+tags:
+- 5 Minute Friday
+concepts:
+- sensory-processing
+- body-awareness
+- core-strength
+- play-skills
+description: Boost your child's vestibular and proprioceptive systems with blanket
+  rides. Explore easy, play-based OT activities for core strength and regulation.
+excerpt: Turn a simple blanket into a powerhouse of developmental fun! Discover the
+  surprising benefits of blanket rides for your baby's sensory input, core strength,
+  and bonding in this 5 Minute Friday activity
 classes: wide
 header:
   teaser: "/assets/images/processed/blog/5mf-blanket.jpeg"

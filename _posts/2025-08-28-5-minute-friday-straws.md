@@ -1,12 +1,21 @@
 ---
 layout: post
-title: "5 Minute Friday - Straws!"
-date: 2025-08-28 08:03:00 -0400
-categories: [posts]
-tags: ["5 Minute Friday"]
-concepts: ["feeding", "fine-motor", "sensory-processing", "visual-motor", "bilateral-coordination"]
-description: "Boost oral motor strength, scissor skills, and fine motor coordination using drinking straws in quick, engaging 5-minute developmental games."
-excerpt: "Grab a straw! This 5 Minute Friday shows how this simple item can boost oral motor skills, fine motor coordination, pre-writing development, and sensory regulation for babies, toddlers, and big kids."
+title: 5 Minute Friday - Straws!
+date: 2025-08-28 08:03:00.000000000 -04:00
+categories:
+- at-home-play
+tags:
+- 5 Minute Friday
+concepts:
+- feeding
+- fine-motor
+- visual-motor
+- play-skills
+description: Boost oral motor strength, scissor skills, and fine motor coordination
+  using drinking straws in quick, engaging 5-minute developmental games.
+excerpt: Grab a straw! This 5 Minute Friday shows how this simple item can boost oral
+  motor skills, fine motor coordination, pre-writing development, and sensory regulation
+  for babies, toddlers, and big kids.
 classes: wide
 header:
   teaser: "/assets/images/processed/blog/5mf-straws.jpeg"

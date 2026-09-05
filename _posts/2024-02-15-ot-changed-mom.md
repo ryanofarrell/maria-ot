@@ -1,12 +1,20 @@
 ---
 layout: post
-title: "5 Ways my OT Practice Changed Since Becoming a Mom"
-date: 2024-02-15 08:03:00 -0400
-categories: [posts]
-tags: ["Posts"]
-concepts: ["sensory-processing", "play-skills"]
-description: "A pediatric occupational therapist shares how her clinical training shaped her parenting journey, from sensory regulation to baby movement milestones."
-excerpt: "How does motherhood transform an OT? An occupational therapist shares 5 profound ways her practice evolved after becoming a mom, offering deeper empathy, clearer answers, and a family-based approach."
+title: 5 Ways my OT Practice Changed Since Becoming a Mom
+date: 2024-02-15 08:03:00.000000000 -04:00
+categories:
+- newborn-development
+tags:
+- Posts
+concepts:
+- caregiver-wellness
+- infant-development
+- self-regulation
+description: A pediatric occupational therapist shares how her clinical training shaped
+  her parenting journey, from sensory regulation to baby movement milestones.
+excerpt: How does motherhood transform an OT? An occupational therapist shares 5 profound
+  ways her practice evolved after becoming a mom, offering deeper empathy, clearer
+  answers, and a family-based approach.
 classes: wide
 header:
   teaser: "/assets/images/processed/blog/changes-as-a-mom.jpeg"

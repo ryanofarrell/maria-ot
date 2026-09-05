@@ -1,12 +1,21 @@
 ---
 layout: post
-title: "5 Minute Friday - Hair Ties and Scrunchies!"
-date: 2024-05-05 08:03:00 -0400
-categories: [posts]
-tags: ["5 Minute Friday"]
-concepts: ["fine-motor", "core-strength", "executive-function", "daily-living", "play-skills"]
-description: "Use scrunchies and hair ties for easy fine motor strengthening, tactile exploration, and bilateral hand games for infants, toddlers, and older kids."
-excerpt: "Unlock developmental play with everyday hair ties & scrunchies! This 5 Minute Friday offers simple activities for babies, toddlers, and older kids to boost core strength, fine motor skills, and problem-solving."
+title: 5 Minute Friday - Hair Ties and Scrunchies!
+date: 2024-05-05 08:03:00.000000000 -04:00
+categories:
+- at-home-play
+tags:
+- 5 Minute Friday
+concepts:
+- fine-motor
+- core-strength
+- bilateral-coordination
+- play-skills
+description: Use scrunchies and hair ties for easy fine motor strengthening, tactile
+  exploration, and bilateral hand games for infants, toddlers, and older kids.
+excerpt: Unlock developmental play with everyday hair ties & scrunchies! This 5 Minute
+  Friday offers simple activities for babies, toddlers, and older kids to boost core
+  strength, fine motor skills, and problem-solving.
 classes: wide
 header:
   teaser: "/assets/images/processed/blog/5mf-hair-tie.jpeg"

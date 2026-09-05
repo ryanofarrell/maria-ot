@@ -1,12 +1,21 @@
 ---
 layout: post
-title: "5 Minute Friday - Party Beads!"
-date: 2024-03-03 08:03:00 -0400
-categories: [posts]
-tags: ["5 Minute Friday"]
-concepts: ["sensory-processing", "fine-motor", "daily-living", "play-skills"]
-description: "Turn party beads into sensory-rich fine motor games! Fun, simple activities for babies and toddlers to boost pincer grasp and bilateral hand skills."
-excerpt: "Don't toss those Mardi Gras beads! This 5 Minute Friday reveals how party beads can boost core strength, sensory integration, and even dressing skills for babies and toddlers. Fun, easy, and beneficial!"
+title: 5 Minute Friday - Party Beads!
+date: 2024-03-03 08:03:00.000000000 -04:00
+categories:
+- at-home-play
+tags:
+- 5 Minute Friday
+concepts:
+- fine-motor
+- daily-living
+- play-skills
+- sensory-processing
+description: Turn party beads into sensory-rich fine motor games! Fun, simple activities
+  for babies and toddlers to boost pincer grasp and bilateral hand skills.
+excerpt: Don't toss those Mardi Gras beads! This 5 Minute Friday reveals how party
+  beads can boost core strength, sensory integration, and even dressing skills for
+  babies and toddlers. Fun, easy, and beneficial!
 classes: wide
 header:
   teaser: "/assets/images/processed/blog/5mf-beads.jpeg"

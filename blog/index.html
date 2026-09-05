@@ -22,7 +22,16 @@ subtitle: Latest posts and articles
     </div>
     <div class="row" id="blog-post-list">
       {% for post in site.posts %}
-        <div class="col-md-6 col-lg-4 mb-4 blog-post-card" data-tags="{% if post.tag %}{{ post.tag | slugify }}{% endif %}">
+        {% assign post_tags_slugs = "" %}
+        {% if post.tags %}
+          {% for t in post.tags %}
+            {% assign slug = t | slugify %}
+            {% assign post_tags_slugs = post_tags_slugs | append: slug | append: " " %}
+          {% endfor %}
+        {% elsif post.tag %}
+          {% assign post_tags_slugs = post.tag | slugify %}
+        {% endif %}
+        <div class="col-md-6 col-lg-4 mb-4 blog-post-card" data-tags="{{ post_tags_slugs | strip }}">
           <div class="blog-card">
             <a href="{{ post.url | relative_url }}">
               {% if post.header.teaser %}
@@ -78,7 +87,11 @@ subtitle: Latest posts and articles
               <p class="blog-card-excerpt">{{ post.excerpt }}</p>
               <p class="blog-card-meta">
                 <small>{{ post.date | date: "%B %d, %Y" }}</small>
-                {% if post.tag %}
+                {% if post.tags %}
+                  {% for t in post.tags %}
+                    <span class="badge badge-pill badge-tag-{{ t | slugify }} ml-2">{{ t }}</span>
+                  {% endfor %}
+                {% elsif post.tag %}
                   <span class="badge badge-pill badge-tag-{{ post.tag | slugify }} ml-2">{{ post.tag }}</span>
                 {% endif %}
               </p>

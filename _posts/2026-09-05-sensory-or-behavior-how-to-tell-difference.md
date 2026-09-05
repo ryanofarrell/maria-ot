@@ -1,12 +1,21 @@
 ---
 layout: post
-title: "Sensory or Behavior? How to Tell the Difference"
-date: 2026-09-05 08:00:00 -0400
-categories: [posts]
-tags: ["Posts"]
-concepts: ["sensory-processing", "self-regulation", "body-awareness"]
-description: "Is it a toddler tantrum or a sensory meltdown? A pediatric OT and mom shares 5 questions to decode big feelings and support sensory regulation."
-excerpt: "Is it a toddler tantrum or a sensory meltdown? A pediatric OT and mom shares 5 questions to help you decode your child's big feelings and practical strategies to support regulation."
+title: Sensory or Behavior? How to Tell the Difference
+date: 2026-09-05 08:00:00.000000000 -04:00
+categories:
+- sensory-processing
+tags:
+- Posts
+concepts:
+- sensory-processing
+- self-regulation
+- body-awareness
+- routines-and-habits
+description: Is it a toddler tantrum or a sensory meltdown? A pediatric OT and mom
+  shares 5 questions to decode big feelings and support sensory regulation.
+excerpt: Is it a toddler tantrum or a sensory meltdown? A pediatric OT and mom shares
+  5 questions to help you decode your child's big feelings and practical strategies
+  to support regulation.
 classes: wide
 header:
   teaser: "/assets/images/processed/blog/sensory-or-behavior.jpeg"

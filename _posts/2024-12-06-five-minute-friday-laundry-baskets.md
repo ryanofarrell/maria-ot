@@ -1,12 +1,21 @@
 ---
 layout: post
-title: "5 Minute Friday - Laundry Baskets!"
-date: 2024-12-06 08:03:00 -0400
-categories: [posts]
-tags: ["5 Minute Friday"]
-concepts: ["body-awareness", "core-strength", "fine-motor", "play-skills"]
-description: "Turn a laundry basket into a powerhouse for heavy work, core strengthening, and vestibular play with easy activities for infants and toddlers."
-excerpt: "That laundry basket is a play goldmine! This 5 Minute Friday reveals how to use it for heavy work, vestibular input, core strengthening, and fine motor fun for your little one. Make chores playful!"
+title: 5 Minute Friday - Laundry Baskets!
+date: 2024-12-06 08:03:00.000000000 -04:00
+categories:
+- at-home-play
+tags:
+- 5 Minute Friday
+concepts:
+- body-awareness
+- core-strength
+- fine-motor
+- play-skills
+description: Turn a laundry basket into a powerhouse for heavy work, core strengthening,
+  and vestibular play with easy activities for infants and toddlers.
+excerpt: That laundry basket is a play goldmine! This 5 Minute Friday reveals how
+  to use it for heavy work, vestibular input, core strengthening, and fine motor fun
+  for your little one. Make chores playful!
 classes: wide
 header:
   teaser: "/assets/images/processed/blog/5mf-laundry.jpeg"

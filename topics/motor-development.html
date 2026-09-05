@@ -82,12 +82,16 @@ permalink: /topics/motor-development/
       {% assign post_count = 0 %}
       {% for post in site.posts %}
         {% assign show_post = false %}
-        {% for concept in post.concepts %}
-          {% assign concept_slug = concept | slugify %}
-          {% if concept_slug == "motor-skills" or concept_slug == "gross-motor" or concept_slug == "fine-motor" or concept_slug == "motor-planning" or concept_slug == "praxis" or concept_slug == "bilateral-coordination" or concept_slug == "crossing-midline" or concept_slug == "tummy-time" or concept_slug == "milestones" or concept_slug == "developmental-milestones" or concept_slug == "grasp-development" or concept_slug == "pincer-grasp" or concept_slug == "visual-motor-integration" %}
-            {% assign show_post = true %}
-          {% endif %}
-        {% endfor %}
+        {% if post.categories contains "motor-development" %}
+          {% assign show_post = true %}
+        {% else %}
+          {% for concept in post.concepts %}
+            {% assign concept_slug = concept | slugify %}
+            {% if concept_slug == "gross-motor" or concept_slug == "fine-motor" or concept_slug == "motor-planning" or concept_slug == "bilateral-coordination" or concept_slug == "core-strength" or concept_slug == "visual-motor" %}
+              {% assign show_post = true %}
+            {% endif %}
+          {% endfor %}
+        {% endif %}
         
         {% if show_post %}
           {% if post_count < 3 %}
@@ -114,7 +118,11 @@ permalink: /topics/motor-development/
                   </div>
                   <p class="blog-card-meta mb-0 mt-3 pt-2" style="border-top: 1px solid #f1f5f9;">
                     <small class="text-muted">{{ post.date | date: "%B %d, %Y" }}</small>
-                    {% if post.tag %}
+                    {% if post.tags %}
+                      {% for t in post.tags %}
+                        <span class="badge badge-pill badge-primary ml-2 py-1 px-2" style="background-color: var(--primary-light); color: var(--primary); font-size: 0.75rem;">{{ t }}</span>
+                      {% endfor %}
+                    {% elsif post.tag %}
                       <span class="badge badge-pill badge-primary ml-2 py-1 px-2" style="background-color: var(--primary-light); color: var(--primary); font-size: 0.75rem;">{{ post.tag }}</span>
                     {% endif %}
                   </p>

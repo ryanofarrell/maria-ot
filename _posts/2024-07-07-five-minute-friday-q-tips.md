@@ -1,12 +1,20 @@
 ---
 layout: post
-title: "5 Minute Friday - Q-Tips!"
-date: 2024-07-07 08:03:00 -0400
-categories: [posts]
-tags: ["5 Minute Friday"]
-concepts: ["fine-motor", "play-skills"]
-description: "Discover simple Q-tip activities to refine your child's pincer grasp, pre-writing hand strength, and bilateral coordination using household items."
-excerpt: "Unlock fine motor magic with Q-tips! This 5 Minute Friday provides easy, age-specific activities for babies, toddlers, and big kids to develop grasp, pre-writing skills, and letter formation."
+title: 5 Minute Friday - Q-Tips!
+date: 2024-07-07 08:03:00.000000000 -04:00
+categories:
+- at-home-play
+tags:
+- 5 Minute Friday
+concepts:
+- fine-motor
+- visual-motor
+- play-skills
+description: Discover simple Q-tip activities to refine your child's pincer grasp,
+  pre-writing hand strength, and bilateral coordination using household items.
+excerpt: Unlock fine motor magic with Q-tips! This 5 Minute Friday provides easy,
+  age-specific activities for babies, toddlers, and big kids to develop grasp, pre-writing
+  skills, and letter formation.
 classes: wide
 header:
   teaser: "/assets/images/processed/blog/5mf-qtips.jpeg"

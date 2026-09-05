@@ -1,12 +1,21 @@
 ---
 layout: post
-title: "Back-to-School Regressions: Why They Happen & How to Help"
-date: 2025-09-21 09:00:00 -0400
-categories: [posts]
-tags: ["Posts"]
-concepts: ["daily-living", "sensory-processing", "body-awareness", "self-regulation"]
-description: "Why do back-to-school regressions like potty accidents happen? An OT explains sensory overload, control needs, and gentle ways to support your child."
-excerpt: "Back-to-school regressions, like potty training accidents, can be frustrating. This post explores why they happen—from sensory overload to a need for control—and offers practical OT tips to help your child get back on track."
+title: 'Back-to-School Regressions: Why They Happen & How to Help'
+date: 2025-09-21 09:00:00.000000000 -04:00
+categories:
+- school-readiness
+tags:
+- Posts
+concepts:
+- school-transitions
+- self-regulation
+- body-awareness
+- routines-and-habits
+description: Why do back-to-school regressions like potty accidents happen? An OT
+  explains sensory overload, control needs, and gentle ways to support your child.
+excerpt: Back-to-school regressions, like potty training accidents, can be frustrating.
+  This post explores why they happen—from sensory overload to a need for control—and
+  offers practical OT tips to help your child get back on track.
 classes: wide
 header:
   teaser: "/assets/images/processed/blog/back-to-school-regression.jpeg"

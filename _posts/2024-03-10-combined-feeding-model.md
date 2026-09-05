@@ -1,12 +1,20 @@
 ---
 layout: post
-title: "The Combined Feeding Model: Baby-Led Weaning & Purees"
-date: 2024-03-10 08:03:00 -0400
-categories: [posts]
-tags: ["Posts"]
-concepts: ["feeding", "play-skills", "sensory-processing"]
-description: "Explore the combined feeding model blending baby-led weaning and purees. An OT explains how this approach supports oral motor and sensory development."
-excerpt: "Baby-Led Weaning or purees? Why not both! An OT mom explains the benefits of a combined feeding model for developing jaw strength, utensil skills, and making mealtime flexible and stress-free."
+title: 'The Combined Feeding Model: Baby-Led Weaning & Purees'
+date: 2024-03-10 08:03:00.000000000 -04:00
+categories:
+- feeding-and-oral-motor
+tags:
+- Posts
+concepts:
+- feeding
+- infant-development
+- routines-and-habits
+description: Explore the combined feeding model blending baby-led weaning and purees.
+  An OT explains how this approach supports oral motor and sensory development.
+excerpt: Baby-Led Weaning or purees? Why not both! An OT mom explains the benefits
+  of a combined feeding model for developing jaw strength, utensil skills, and making
+  mealtime flexible and stress-free.
 classes: wide
 header:
   teaser: "/assets/images/processed/blog/combined-feeding.jpeg"

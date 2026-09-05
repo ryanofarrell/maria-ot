@@ -1,12 +1,21 @@
 ---
 layout: post
-title: "Back-to-School Tips from a Pediatric OT"
-date: 2025-08-03 09:00:00 -0400
-categories: [posts]
-tags: ["Posts"]
-concepts: ["sensory-processing", "daily-living", "executive-function"]
-description: "Help your child transition back to school with 5 practical OT strategies for sensory routines, after-school decompression, and bedtime regulation."
-excerpt: "Ease the back-to-school transition for kids with sensory differences. An OT offers 5 key tips on routines, sensory plans, managing expectations, after-school cooldowns, and bedtime support."
+title: Back-to-School Tips from a Pediatric OT
+date: 2025-08-03 09:00:00.000000000 -04:00
+categories:
+- school-readiness
+tags:
+- Posts
+concepts:
+- school-transitions
+- routines-and-habits
+- executive-function
+- sensory-processing
+description: Help your child transition back to school with 5 practical OT strategies
+  for sensory routines, after-school decompression, and bedtime regulation.
+excerpt: Ease the back-to-school transition for kids with sensory differences. An
+  OT offers 5 key tips on routines, sensory plans, managing expectations, after-school
+  cooldowns, and bedtime support.
 classes: wide
 header:
   teaser: "/assets/images/processed/blog/back-to-school-tips.jpeg"

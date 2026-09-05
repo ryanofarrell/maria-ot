@@ -1,12 +1,21 @@
 ---
 layout: post
-title: "5 Minute Friday - Backpacks!"
-date: 2024-08-04 08:03:00 -0400
-categories: [posts]
-tags: ["5 Minute Friday"]
-concepts: ["body-awareness", "daily-living"]
-description: "Use weighted backpack games as purposeful proprioceptive heavy work to calm the nervous system and build core stability for school readiness."
-excerpt: "Back-to-school prep can be play! This 5 Minute Friday uses backpacks to boost zipper skills, proprioception (heavy work), problem-solving, and even pre-dressing skills for various ages."
+title: 5 Minute Friday - Backpacks!
+date: 2024-08-04 08:03:00.000000000 -04:00
+categories:
+- school-readiness
+tags:
+- 5 Minute Friday
+concepts:
+- school-transitions
+- body-awareness
+- daily-living
+- play-skills
+description: Use weighted backpack games as purposeful proprioceptive heavy work to
+  calm the nervous system and build core stability for school readiness.
+excerpt: Back-to-school prep can be play! This 5 Minute Friday uses backpacks to boost
+  zipper skills, proprioception (heavy work), problem-solving, and even pre-dressing
+  skills for various ages.
 classes: wide
 header:
   teaser: "/assets/images/processed/blog/5mf-backpack.jpeg"

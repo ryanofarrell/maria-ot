@@ -1,12 +1,22 @@
 ---
 layout: post
-title: "5 Minute Friday - Sponges!"
-date: 2025-06-06 08:03:00 -0400
-categories: [posts]
-tags: ["5 Minute Friday"]
-concepts: ["sensory-processing", "fine-motor", "core-strength", "visual-motor", "play-skills"]
-description: "Grab a kitchen sponge for fun water play, hand grip strengthening, tactile sensory processing, and bilateral coordination games for all ages."
-excerpt: "Transform an everyday sponge into a powerhouse of play! This 5 Minute Friday offers sensory-rich, skill-building activities for babies, toddlers, and big kids, perfect for boosting fine motor skills, core strength, and creative fun."
+title: 5 Minute Friday - Sponges!
+date: 2025-06-06 08:03:00.000000000 -04:00
+categories:
+- at-home-play
+tags:
+- 5 Minute Friday
+concepts:
+- sensory-processing
+- fine-motor
+- core-strength
+- visual-motor
+- play-skills
+description: Grab a kitchen sponge for fun water play, hand grip strengthening, tactile
+  sensory processing, and bilateral coordination games for all ages.
+excerpt: Transform an everyday sponge into a powerhouse of play! This 5 Minute Friday
+  offers sensory-rich, skill-building activities for babies, toddlers, and big kids,
+  perfect for boosting fine motor skills, core strength, and creative fun.
 classes: wide
 header:
   teaser: "/assets/images/processed/blog/5mf-sponges.jpeg"

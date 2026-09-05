@@ -1,12 +1,20 @@
 ---
 layout: post
-title: "5 Changes I Made to Boost my Postpartum Mental Health"
-date: 2024-03-13 08:03:00 -0400
-categories: [posts]
-tags: ["Posts"]
-concepts: ["sensory-processing", "play-skills"]
-description: "An OT and mom shares 5 realistic changes she made to support postpartum mental health, from protected sleep to nervous system co-regulation."
-excerpt: "Struggling with postpartum mental health? An OT and mom shares 5 actionable changes she made to improve well-being and confidence. Learn how to find grace and adapt in your new role."
+title: 5 Changes I Made to Boost my Postpartum Mental Health
+date: 2024-03-13 08:03:00.000000000 -04:00
+categories:
+- newborn-development
+tags:
+- Posts
+concepts:
+- caregiver-wellness
+- routines-and-habits
+- self-regulation
+description: An OT and mom shares 5 realistic changes she made to support postpartum
+  mental health, from protected sleep to nervous system co-regulation.
+excerpt: Struggling with postpartum mental health? An OT and mom shares 5 actionable
+  changes she made to improve well-being and confidence. Learn how to find grace and
+  adapt in your new role.
 classes: wide
 header:
   teaser: "/assets/images/processed/blog/mental-health.jpeg"

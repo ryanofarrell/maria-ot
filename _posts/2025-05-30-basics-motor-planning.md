@@ -1,12 +1,21 @@
 ---
 layout: post
-title: "Basics of Motor Planning: Helping Kids Navigate Their World"
-date: 2025-05-30 09:00:00 -0400
-categories: [posts]
-tags: ["Posts"]
-concepts: ["motor-planning", "body-awareness", "executive-function", "sensory-processing"]
-description: "Discover the basics of motor planning (praxis), why body awareness matters, and practical OT strategies to help children build confidence in everyday tasks."
-excerpt: "An exploration of motor planning (praxis), its essential components like body awareness, tactile processing, and ideation, and practical ways to support children's development in these areas."
+title: 'Basics of Motor Planning: Helping Kids Navigate Their World'
+date: 2025-05-30 09:00:00.000000000 -04:00
+categories:
+- motor-development
+tags:
+- Posts
+concepts:
+- motor-planning
+- body-awareness
+- executive-function
+- sensory-processing
+description: Discover the basics of motor planning (praxis), why body awareness matters,
+  and practical OT strategies to help children build confidence in everyday tasks.
+excerpt: An exploration of motor planning (praxis), its essential components like
+  body awareness, tactile processing, and ideation, and practical ways to support
+  children's development in these areas.
 classes: wide
 header:
   teaser: "/assets/images/processed/blog/motor-planning.jpeg"

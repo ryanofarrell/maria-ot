@@ -1,12 +1,20 @@
 ---
 layout: post
-title: "5 Minute Friday - Tissue Boxes!"
-date: 2025-01-06 08:03:00 -0400
-categories: [posts]
-tags: ["5 Minute Friday"]
-concepts: ["fine-motor", "play-skills"]
-description: "Repurpose empty tissue boxes into interactive fine motor games that build pincer grasp, tactile awareness, and problem-solving skills at home."
-excerpt: "Don't toss that empty tissue box! Our 5 Minute Friday transforms it into a versatile toy for babies, toddlers, and older kids, perfect for boosting pincer grasp, fine motor precision, and sequencing skills."
+title: 5 Minute Friday - Tissue Boxes!
+date: 2025-01-06 08:03:00.000000000 -04:00
+categories:
+- at-home-play
+tags:
+- 5 Minute Friday
+concepts:
+- fine-motor
+- bilateral-coordination
+- play-skills
+description: Repurpose empty tissue boxes into interactive fine motor games that build
+  pincer grasp, tactile awareness, and problem-solving skills at home.
+excerpt: Don't toss that empty tissue box! Our 5 Minute Friday transforms it into
+  a versatile toy for babies, toddlers, and older kids, perfect for boosting pincer
+  grasp, fine motor precision, and sequencing skills.
 classes: wide
 header:
   teaser: "/assets/images/processed/blog/5mf-tissue.jpeg"

@@ -82,12 +82,16 @@ permalink: /topics/school-readiness/
       {% assign post_count = 0 %}
       {% for post in site.posts %}
         {% assign show_post = false %}
-        {% for concept in post.concepts %}
-          {% assign concept_slug = concept | slugify %}
-          {% if concept_slug == "back-to-school" or concept_slug == "regression" or concept_slug == "potty-training" or concept_slug == "routines" or concept_slug == "executive-functioning" or concept_slug == "parenting-tips" or concept_slug == "occupational-therapy" or concept_slug == "screen-time" or concept_slug == "attention-span" or concept_slug == "social-emotional-skills" or concept_slug == "backpacks" or concept_slug == "zipper-skills" %}
-            {% assign show_post = true %}
-          {% endif %}
-        {% endfor %}
+        {% if post.categories contains "school-readiness" %}
+          {% assign show_post = true %}
+        {% else %}
+          {% for concept in post.concepts %}
+            {% assign concept_slug = concept | slugify %}
+            {% if concept_slug == "school-transitions" or concept_slug == "routines-and-habits" or concept_slug == "executive-function" or concept_slug == "attention" %}
+              {% assign show_post = true %}
+            {% endif %}
+          {% endfor %}
+        {% endif %}
         
         {% if show_post %}
           {% if post_count < 3 %}
@@ -114,7 +118,11 @@ permalink: /topics/school-readiness/
                   </div>
                   <p class="blog-card-meta mb-0 mt-3 pt-2" style="border-top: 1px solid #f1f5f9;">
                     <small class="text-muted">{{ post.date | date: "%B %d, %Y" }}</small>
-                    {% if post.tag %}
+                    {% if post.tags %}
+                      {% for t in post.tags %}
+                        <span class="badge badge-pill badge-primary ml-2 py-1 px-2" style="background-color: var(--primary-light); color: var(--primary); font-size: 0.75rem;">{{ t }}</span>
+                      {% endfor %}
+                    {% elsif post.tag %}
                       <span class="badge badge-pill badge-primary ml-2 py-1 px-2" style="background-color: var(--primary-light); color: var(--primary); font-size: 0.75rem;">{{ post.tag }}</span>
                     {% endif %}
                   </p>

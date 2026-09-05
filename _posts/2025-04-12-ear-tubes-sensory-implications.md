@@ -1,12 +1,20 @@
 ---
 layout: post
-title: "Ear Tubes and Beyond: Sensory Impacts of Surgery in Kids"
-date: 2025-04-12 08:03:00 -0400
-categories: [posts]
-tags: ["Posts"]
-concepts: ["sensory-processing", "play-skills"]
-description: "An OT's guide to ear tube surgery, post-op auditory changes, and how fluctuating hearing impacts speech, balance, and sensory regulation in kids."
-excerpt: "A look at why children get ear tubes, how frequent ear infections affect the vestibular system, and what sensory implications parents should be aware of post-procedure."
+title: 'Ear Tubes and Beyond: Sensory Impacts of Surgery in Kids'
+date: 2025-04-12 08:03:00.000000000 -04:00
+categories:
+- sensory-processing
+tags:
+- Posts
+concepts:
+- sensory-processing
+- body-awareness
+- self-regulation
+description: An OT's guide to ear tube surgery, post-op auditory changes, and how
+  fluctuating hearing impacts speech, balance, and sensory regulation in kids.
+excerpt: A look at why children get ear tubes, how frequent ear infections affect
+  the vestibular system, and what sensory implications parents should be aware of
+  post-procedure.
 classes: wide
 header:
   teaser: "/assets/images/processed/blog/ear-tubes.jpeg"

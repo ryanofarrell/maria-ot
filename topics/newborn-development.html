@@ -82,12 +82,16 @@ permalink: /topics/newborn-development/
       {% assign post_count = 0 %}
       {% for post in site.posts %}
         {% assign show_post = false %}
-        {% for concept in post.concepts %}
-          {% assign concept_slug = concept | slugify %}
-          {% if concept_slug == "newborn-care" or concept_slug == "wake-windows" or concept_slug == "infant-care" or concept_slug == "infant-development" or concept_slug == "infant-activities" or concept_slug == "postpartum" or concept_slug == "womb" or concept_slug == "prenatal-development" or concept_slug == "infant-massage" %}
-            {% assign show_post = true %}
-          {% endif %}
-        {% endfor %}
+        {% if post.categories contains "newborn-development" %}
+          {% assign show_post = true %}
+        {% else %}
+          {% for concept in post.concepts %}
+            {% assign concept_slug = concept | slugify %}
+            {% if concept_slug == "infant-development" or concept_slug == "caregiver-wellness" or concept_slug == "newborn-care" or concept_slug == "wake-windows" %}
+              {% assign show_post = true %}
+            {% endif %}
+          {% endfor %}
+        {% endif %}
         
         {% if show_post %}
           {% if post_count < 3 %}
@@ -114,7 +118,11 @@ permalink: /topics/newborn-development/
                   </div>
                   <p class="blog-card-meta mb-0 mt-3 pt-2" style="border-top: 1px solid #f1f5f9;">
                     <small class="text-muted">{{ post.date | date: "%B %d, %Y" }}</small>
-                    {% if post.tag %}
+                    {% if post.tags %}
+                      {% for t in post.tags %}
+                        <span class="badge badge-pill badge-primary ml-2 py-1 px-2" style="background-color: var(--primary-light); color: var(--primary); font-size: 0.75rem;">{{ t }}</span>
+                      {% endfor %}
+                    {% elsif post.tag %}
                       <span class="badge badge-pill badge-primary ml-2 py-1 px-2" style="background-color: var(--primary-light); color: var(--primary); font-size: 0.75rem;">{{ post.tag }}</span>
                     {% endif %}
                   </p>
