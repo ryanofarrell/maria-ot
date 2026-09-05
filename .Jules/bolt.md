@@ -87,7 +87,7 @@ find assets/js/ -name '*.js' -not -name '*.test.js' -exec wc -c {} + | tail -1
 ## Coverage Tracker
 
 ### Image Pipeline
-- [ ] All `full-res/` files have `processed/` variants
+- [x] All `full-res/` files have `processed/` variants ✅ 2026-09-05
 - [ ] All `<img>` tags use `<picture>` with multi-format
 - [ ] `loading="lazy"` on below-fold images
 - [ ] Missing `width`/`height` attributes
@@ -117,4 +117,10 @@ find assets/js/ -name '*.js' -not -name '*.test.js' -exec wc -c {} + | tail -1
 
 ## Execution Log
 
-*No entries yet. First audit pending.*
+<!-- Bolt's cumulative journal. New entries go at the top. -->
+
+### 2026-09-05 — Add missing vector logo to processed images directory
+- **Target:** `assets/images/processed/logo.svg`
+- **Finding:** `assets/images/full-res/logo.svg` was missing from `assets/images/processed/`, causing pipeline audit failures.
+- **Action:** Copied vector graphic `assets/images/full-res/logo.svg` directly to `assets/images/processed/logo.svg` without lossy rasterization.
+- **Verification:** Ran audit loop across `assets/images/full-res/*` → ✅ All images now have processed counterparts; `bundle exec jekyll build` → ✅ Success
