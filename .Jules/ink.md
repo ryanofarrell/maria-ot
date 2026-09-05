@@ -170,8 +170,42 @@ done
 ## Coverage Tracker
 
 ### Posts (populate by running `ls _posts/`)
-- [ ] `2025-05-30-basics-motor-planning.md`
-- [ ] *(run `ls _posts/` to discover remaining posts and add them here)*
+- [x] `2025-05-30-basics-motor-planning.md` ✅ 2026-09-05
+- [ ] `2024-01-06-five-minute-friday-blanket-rides.md`
+- [ ] `2024-01-20-sensory-processing-in-womb.md`
+- [ ] `2024-02-03-five-minute-friday-painters-tape.md`
+- [ ] `2024-02-10-benefits-ot-telehealth.md`
+- [ ] `2024-02-15-ot-changed-mom.md`
+- [ ] `2024-02-22-wake-windows-0-3-months.md`
+- [ ] `2024-03-03-five-minute-friday-party-beads.md`
+- [ ] `2024-03-10-combined-feeding-model.md`
+- [ ] `2024-03-13-five-changes-postpartum-mental-health.md`
+- [ ] `2024-04-07-five-minute-friday-foil.md`
+- [ ] `2024-04-19-wake-windows-3-6-months.md`
+- [ ] `2024-05-05-five-minute-friday-hair-ties-scrunchies.md`
+- [ ] `2024-06-02-five-minute-friday-muffin-tins.md`
+- [ ] `2024-07-07-five-minute-friday-q-tips.md`
+- [ ] `2024-08-04-five-minute-friday-backpacks.md`
+- [ ] `2024-08-10-importance-of-tummy-time.md`
+- [ ] `2024-11-08-gift-guide-2024.md`
+- [ ] `2024-12-06-five-minute-friday-laundry-baskets.md`
+- [ ] `2025-01-06-five-minute-friday-tissue-boxes.md`
+- [ ] `2025-02-06-five-minute-friday-baking-sheets.md`
+- [ ] `2025-03-06-five-minute-friday-balloons.md`
+- [ ] `2025-04-12-ear-tubes-sensory-implications.md`
+- [ ] `2025-05-11-tongue-tie-experience.md`
+- [ ] `2025-06-06-five-minute-friday-sponges.md`
+- [ ] `2025-06-11-screen-time-recommendations.md`
+- [ ] `2025-06-27-five-minute-friday-chip-clips.md`
+- [ ] `2025-07-11-gross-fine-motor.md`
+- [ ] `2025-08-01-five-minute-friday-pipe-cleaners.md`
+- [ ] `2025-08-03-back-to-school-tips-from-ot.md`
+- [ ] `2025-08-28-5-minute-friday-straws.md`
+- [ ] `2025-09-21-back-to-school-regression.md`
+- [ ] `2025-10-04-five-minute-friday-pompoms.md`
+- [ ] `2025-12-08-gift-guide-2025.md`
+- [ ] `2026-01-29-indoor-play-areas-atlanta.md`
+- [ ] `2026-09-05-sensory-or-behavior-how-to-tell-difference.md`
 
 ### Taxonomy
 - [ ] `_data/tags.yml` — Verify all tags used in posts exist in taxonomy
@@ -181,4 +215,10 @@ done
 
 ## Execution Log
 
-*No entries yet. First audit pending.*
+<!-- Ink's cumulative journal. New entries go at the top. -->
+
+### 2026-09-05 — Audit front matter and SEO metadata for motor planning post
+- **Target:** `_posts/2025-05-30-basics-motor-planning.md`
+- **Finding:** Title exceeded 60 characters (65 chars), SEO `description` was missing, `concepts` contained non-canonical / multi-word unhyphenated terms, and `tag` was singular rather than standard array format.
+- **Action:** Shortened title to ≤ 60 characters ("Basics of Motor Planning: Helping Kids Navigate Their World" - 59 chars), added a 158-character `description`, converted `concepts` to canonical taxonomy slugs (`motor-planning`, `body-awareness`, `executive-function`, `sensory-processing`), converted `tags` to an array, and verified the `image` Open Graph property.
+- **Verification:** `bundle exec jekyll build` → ✅ Success
