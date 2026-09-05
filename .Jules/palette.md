@@ -98,7 +98,7 @@ grep -rn '#[0-9a-fA-F]\{3,6\}' _sass/ --include='*.scss' | grep -v '_bootstrap\|
 ### Layouts (`_layouts/`)
 - [x] `default.html` ✅ 2026-06-03
 - [x] `home.html` ✅ 2026-06-10
-- [ ] `post.html`
+- [x] `post.html` ✅ 2026-09-05
 - [ ] `page.html`
 - [ ] `single.html`
 - [ ] `minimal.html`
@@ -142,6 +142,12 @@ grep -rn '#[0-9a-fA-F]\{3,6\}' _sass/ --include='*.scss' | grep -v '_bootstrap\|
 ## Execution Log
 
 <!-- Palette's cumulative journal. New entries go at the top. -->
+
+### 2026-09-05 — Eliminate redundant tab stop on related post card images
+- **Target:** `_layouts/post.html`
+- **Finding:** Related post cards had two adjacent links to the same destination: an image link followed immediately by the post title link, creating redundant tab stops and repetitive screen reader announcements.
+- **Action:** Added `aria-hidden="true"` and `tabindex="-1"` to the image `<a>` tag within the related posts card loop so screen reader and keyboard users navigate directly via the descriptive title link.
+- **Verification:** `bundle exec jekyll build` → ✅ Success
 
 ### 2026-06-10 — No accessibility issues found
 - **Target:** `_layouts/home.html`
